@@ -48,65 +48,213 @@ nav:
     - part1/index.md
     - "1장 철학은 무엇을 묻는가":
       - part1/ch01/index.md
+      - "1.1 철학이라는 질문 놀이":
+        - "철학은 '왜?'를 끝까지 묻는 일": part1/ch01/what-is-philosophy.md
+        - "철학은 놀라움에서 시작된다": part1/ch01/wonder.md
+      - "1.2 최초의 철학자들":
+        - "탈레스: 세상은 무엇으로 되어 있을까": part1/ch01/thales.md
+        - "헤라클레이토스: 모든 것은 흐른다": part1/ch01/heraclitus.md
+        - "파르메니데스: 변화는 착각일까": part1/ch01/parmenides.md
+        - "피타고라스: 세상 속에 숨은 수": part1/ch01/pythagoras.md
+        - "데모크리토스: 더 쪼갤 수 없는 알갱이, 원자": part1/ch01/democritus.md
     - "2장 소크라테스":
       - part1/ch02/index.md
+      - "2.1 묻는 사람":
+        - "소피스트: 사람이 만물의 척도일까": part1/ch02/sophists.md
+        - "소크라테스는 '모른다는 것'을 알았다": part1/ch02/know-nothing.md
+        - "질문으로 생각을 끌어내기: 문답법": part1/ch02/socratic-method.md
+        - "돌아보지 않는 삶은 살 만할까": part1/ch02/examined-life.md
+        - "소크라테스는 왜 감옥에서 도망치지 않았을까": part1/ch02/socrates-death.md
     - "3장 플라톤":
       - part1/ch03/index.md
       - "3.1 두 개의 세계":
         - "플라톤은 보이는 것 너머에 진짜가 있다고 봤다: 이데아": part1/ch03/forms.md
+        - "동굴의 비유: 그림자만 보고 산다면": part1/ch03/cave.md
+      - "3.2 마음과 나라":
+        - "마음은 세 부분으로 되어 있다": part1/ch03/soul-three.md
+        - "아무도 안 보면 착하게 살까: 기게스의 반지": part1/ch03/ring-of-gyges.md
+        - "철학자가 다스리는 나라": part1/ch03/philosopher-king.md
     - "4장 아리스토텔레스":
       - part1/ch04/index.md
+      - "4.1 세상을 정리하는 법":
+        - "진짜는 사물 안에 있다": part1/ch04/aristotle-vs-plato.md
+        - "무엇이든 네 가지 '왜'로 설명한다": part1/ch04/four-causes.md
+        - "생각에도 규칙이 있다: 삼단논법": part1/ch04/syllogism.md
+      - "4.2 잘 사는 법":
+        - "행복은 기분이 아니라 잘 사는 활동": part1/ch04/eudaimonia.md
+        - "중용: 용기는 무모함과 비겁함 사이": part1/ch04/golden-mean.md
+        - "사람은 함께 살아야 사람이 된다": part1/ch04/political-animal.md
   - "II 같은 시대, 동쪽에서":
     - part2/index.md
     - "5장 공자와 유가":
       - part2/ch05/index.md
+      - "5.1 공자":
+        - "공자: 사람다움, 인(仁)": part2/ch05/confucius-ren.md
+        - "예(禮): 마음을 담은 몸가짐": part2/ch05/confucius-li.md
+      - "5.2 사람의 본성":
+        - "맹자: 사람은 착하게 태어난다": part2/ch05/mencius.md
+        - "순자: 본성은 가꾸어야 착해진다": part2/ch05/xunzi.md
     - "6장 노자, 장자, 묵자":
       - part2/ch06/index.md
+      - "6.1 도가":
+        - "노자: 이름 붙일 수 없는 길, 도(道)": part2/ch06/laozi-dao.md
+        - "억지로 하지 않기: 무위(無爲)": part2/ch06/wuwei.md
+        - "장자: 나비 꿈과 자유로운 마음": part2/ch06/zhuangzi-butterfly.md
+      - "6.2 묵가":
+        - "묵자: 내 가족처럼 모두를 아껴라, 겸애": part2/ch06/mozi.md
     - "7장 인도의 지혜":
       - part2/ch07/index.md
+      - "7.1 나를 찾아서":
+        - "우파니샤드: 내 안의 나와 우주의 근원": part2/ch07/upanishad-atman.md
+        - "붓다: 괴로움을 끝내는 네 가지 진리": part2/ch07/four-truths.md
+        - "붓다: 변하지 않는 '나'는 없다, 무아": part2/ch07/no-self.md
+        - "나가르주나: 모든 것은 기대어 있다, 공(空)": part2/ch07/nagarjuna.md
   - "III 마음의 평화와 믿음":
     - part3/index.md
     - "8장 마음의 평화를 찾아서":
       - part3/ch08/index.md
+      - "8.1 헬레니즘 철학":
+        - "에피쿠로스: 작은 기쁨으로 사는 법": part3/ch08/epicurus.md
+        - "스토아: 내가 바꿀 수 있는 것에만 마음 쓰기": part3/ch08/stoics.md
+        - "회의주의: 판단을 잠시 멈추기": part3/ch08/skeptics.md
+        - "디오게네스: 가진 것 없이 자유롭게": part3/ch08/diogenes.md
     - "9장 믿음과 이성":
       - part3/ch09/index.md
+      - "9.1 고대 끝 무렵":
+        - "아우구스티누스: 나쁜 일은 어디서 왔을까": part3/ch09/augustine-evil.md
+        - "아우구스티누스: 시간이란 무엇일까": part3/ch09/augustine-time.md
+        - "보에티우스: 운명이 등을 돌릴 때": part3/ch09/boethius.md
+      - "9.2 중세 유럽":
+        - "안셀무스: 생각만으로 신을 증명할 수 있을까": part3/ch09/anselm.md
+        - "아퀴나스: 신앙과 이성은 싸우지 않는다": part3/ch09/aquinas.md
+        - "오컴의 면도날: 설명은 단순하게": part3/ch09/ockham.md
     - "10장 이슬람 세계의 철학":
       - part3/ch10/index.md
+      - "10.1 바그다드에서 코르도바까지":
+        - "바그다드의 번역 운동: 그리스 철학을 이어받다": part3/ch10/translation-movement.md
+        - "이븐 시나: 허공에 뜬 사람도 자신을 알까": part3/ch10/avicenna.md
+        - "가잘리: 불은 정말 솜을 태우는가": part3/ch10/al-ghazali.md
+        - "이븐 루시드: 철학과 종교는 같은 진리를 말한다": part3/ch10/averroes.md
     - "11장 불교, 동쪽으로":
       - part3/ch11/index.md
+      - "11.1 한국 불교":
+        - "원효: 다투는 생각들을 하나로, 화쟁": part3/ch11/wonhyo.md
+        - "지눌: 단번에 깨닫고 꾸준히 닦기": part3/ch11/jinul.md
   - "IV 의심과 이성":
     - part4/index.md
     - "12장 새로운 시대":
       - part4/ch12/index.md
+      - "12.1 르네상스와 그 뒤":
+        - "마키아벨리: 정치는 있는 그대로 보자": part4/ch12/machiavelli.md
+        - "몽테뉴: 나는 무엇을 아는가": part4/ch12/montaigne.md
+        - "베이컨: 머릿속 네 가지 우상": part4/ch12/bacon.md
     - "13장 이성으로 확실한 것 찾기":
       - part4/ch13/index.md
+      - "13.1 데카르트":
+        - "데카르트: 모든 것을 한 번 의심해 보기": part4/ch13/methodic-doubt.md
+        - "나는 생각한다, 그러므로 나는 있다": part4/ch13/cogito.md
+        - "마음과 몸은 다른 것일까": part4/ch13/mind-body.md
+      - "13.2 데카르트 다음":
+        - "스피노자: 신은 곧 자연이다": part4/ch13/spinoza.md
+        - "라이프니츠: 왜 아무것도 없지 않고 무언가 있을까": part4/ch13/leibniz.md
+        - "파스칼: 생각하는 갈대와 신에 대한 내기": part4/ch13/pascal.md
     - "14장 경험에서 시작하기":
       - part4/ch14/index.md
+      - "14.1 경험론":
+        - "로크: 우리는 빈 종이로 태어난다": part4/ch14/locke-blank-slate.md
+        - "버클리: 아무도 안 보면 나무는 있을까": part4/ch14/berkeley.md
+        - "흄: 원인과 결과는 눈에 보이지 않는다": part4/ch14/hume-cause.md
+        - "흄: '이렇다'에서 '이래야 한다'로 건너뛸 수 있을까": part4/ch14/hume-is-ought.md
+        - "흄: '나'는 느낌들의 묶음일까": part4/ch14/hume-self.md
     - "15장 나라는 왜 있을까":
       - part4/ch15/index.md
+      - "15.1 사회계약과 계몽":
+        - "홉스: 나라가 없으면 모두가 모두와 싸운다": part4/ch15/hobbes.md
+        - "로크: 누구도 빼앗을 수 없는 권리": part4/ch15/locke-rights.md
+        - "루소: 모두의 뜻, 일반의지": part4/ch15/rousseau.md
+        - "울스턴크래프트: 여성에게도 같은 교육을": part4/ch15/wollstonecraft.md
+        - "제라 야콥: 에티오피아 동굴에서 이성으로 묻다": part4/ch15/zera-yacob.md
     - "16장 동아시아의 새 유학":
       - part4/ch16/index.md
+      - "16.1 성리학과 양명학":
+        - "주희: 세상은 이치(理)와 기운(氣)으로 되어 있다": part4/ch16/zhuxi.md
+        - "왕양명: 아는 것과 하는 것은 하나": part4/ch16/wang-yangming.md
+      - "16.2 조선의 철학":
+        - "퇴계: 착한 마음은 어디서 나오는가, 사단칠정 논쟁": part4/ch16/toegye.md
+        - "율곡: 이치는 하나, 기운은 여럿": part4/ch16/yulgok.md
+        - "정약용: 착함은 행동으로 이루어진다": part4/ch16/dasan.md
   - "V 19세기":
     - part5/index.md
     - "17장 칸트와 그 뒤":
       - part5/ch17/index.md
+      - "17.1 칸트":
+        - "칸트: 우리는 세상을 마음의 안경으로 본다": part5/ch17/kant-lens.md
+        - "칸트: 누구나 따라도 되는 규칙인가": part5/ch17/categorical-imperative.md
+        - "칸트: 계몽은 스스로 생각할 용기": part5/ch17/kant-enlightenment.md
+      - "17.2 칸트 다음":
+        - "헤겔: 생각은 부딪히며 자란다": part5/ch17/hegel.md
+        - "쇼펜하우어: 끝없이 바라는 마음": part5/ch17/schopenhauer.md
     - "18장 가장 많은 사람의 행복":
       - part5/ch18/index.md
+      - "18.1 공리주의와 그 비판":
+        - "벤담: 최대 다수의 최대 행복": part5/ch18/bentham.md
+        - "밀: 남을 해치지 않는 한 자유롭게": part5/ch18/mill-harm.md
+        - "밀: 기쁨에도 질이 있다": part5/ch18/mill-quality.md
+        - "마르크스: 일하면서 낯설어지는 사람": part5/ch18/marx.md
     - "19장 실존을 향해":
       - part5/ch19/index.md
+      - "19.1 고독한 질문자들":
+        - "키르케고르: 선택하는 개인": part5/ch19/kierkegaard.md
+        - "니체: '신은 죽었다'의 진짜 뜻": part5/ch19/nietzsche-god-dead.md
+        - "니체: 같은 삶을 영원히 반복해도 좋은가": part5/ch19/nietzsche-eternal.md
+        - "윌리엄 제임스: 생각은 쓸모로 시험된다": part5/ch19/william-james.md
   - "VI 20세기":
     - part6/index.md
     - "20장 언어와 과학":
       - part6/ch20/index.md
+      - "20.1 말과 과학":
+        - "비트겐슈타인: 말할 수 없는 것에는 침묵하라": part6/ch20/wittgenstein-early.md
+        - "비트겐슈타인: 낱말의 뜻은 쓰임에 있다": part6/ch20/wittgenstein-games.md
+        - "포퍼: 틀릴 수 있어야 과학이다": part6/ch20/popper.md
+        - "쿤: 과학은 패러다임이 바뀌며 자란다": part6/ch20/kuhn.md
     - "21장 실존과 자유":
       - part6/ch21/index.md
+      - "21.1 실존주의와 그 주변":
+        - "하이데거: 언젠가 죽는 존재로 산다는 것": part6/ch21/heidegger.md
+        - "사르트르: 실존은 본질에 앞선다": part6/ch21/sartre.md
+        - "보부아르: 여자로 태어나지 않고 여자가 된다": part6/ch21/beauvoir.md
+        - "카뮈: 굴러떨어지는 바위와 시시포스": part6/ch21/camus.md
+        - "아렌트: 생각하지 않을 때 생기는 악": part6/ch21/arendt.md
     - "22장 정의와 권력":
       - part6/ch22/index.md
+      - "22.1 공정과 힘":
+        - "롤스: 무지의 베일 뒤에서 규칙 정하기": part6/ch22/rawls.md
+        - "노직: 정당하게 얻은 것은 내 것": part6/ch22/nozick.md
+        - "푸코: 감시하는 눈과 보이지 않는 권력": part6/ch22/foucault.md
+        - "우분투: 사람은 다른 사람을 통해 사람이 된다": part6/ch22/ubuntu.md
   - "VII 주제로 다시 읽기 ★":
     - part7/index.md
     - "23장 큰 질문들 ★":
       - part7/ch23/index.md
+      - "23.1 앎과 존재 ★":
+        - "무엇을 확실히 알 수 있을까": part7/ch23/q-knowledge.md
+        - "나는 누구일까: 붓다, 로크, 흄": part7/ch23/q-self.md
+        - "마음은 뇌일까": part7/ch23/q-mind.md
+        - "신은 있을까: 증명과 반론": part7/ch23/q-god.md
+      - "23.2 삶과 사회 ★":
+        - "옳고 그름은 무엇으로 정할까: 결과, 의무, 덕": part7/ch23/q-right-wrong.md
+        - "자유의지는 있을까": part7/ch23/q-free-will.md
+        - "공정한 사회는 어떤 모습일까": part7/ch23/q-justice.md
+        - "삶의 의미는 어디서 올까": part7/ch23/q-meaning.md
     - "24장 오늘의 쟁점 ★":
       - part7/ch24/index.md
+      - "24.1 함께 생각할 문제 ★":
+        - "한 명과 다섯 명: 트롤리 문제": part7/ch24/trolley.md
+        - "동물은 어떻게 대해야 할까": part7/ch24/animals.md
+        - "기계에게도 책임을 물을 수 있을까": part7/ch24/tech-ethics.md
   - "부록":
     - appendix/index.md
+    - "용어집": appendix/glossary.md
+    - "동서양 철학 연표": appendix/timeline.md
+    - "읽는 순서 추천": appendix/reading-order.md
+    - "참고 자료 목록": appendix/references.md

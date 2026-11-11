@@ -3,9 +3,9 @@
 우주의 이치와 사람의 마음을 하나로 설명하려 했어요. 조선 선비들의 논쟁도 여기서 만나요.
 
 <div class="ep-list">
-<div class="soon"><span class="ep-no">16.1.1</span><span class="ep-title">주희: 세상은 이치(理)와 기운(氣)으로 되어 있다</span><span class="ep-time">준비 중</span></div>
-<div class="soon"><span class="ep-no">16.1.2</span><span class="ep-title">왕양명: 아는 것과 하는 것은 하나</span><span class="ep-time">준비 중</span></div>
-<div class="soon"><span class="ep-no">16.2.1</span><span class="ep-title">퇴계: 착한 마음은 어디서 나오는가, 사단칠정 논쟁</span><span class="ep-time">준비 중</span></div>
-<div class="soon"><span class="ep-no">16.2.2</span><span class="ep-title">율곡: 이치는 하나, 기운은 여럿</span><span class="ep-time">준비 중</span></div>
-<div class="soon"><span class="ep-no">16.2.3</span><span class="ep-title">정약용: 착함은 행동으로 이루어진다</span><span class="ep-time">준비 중</span></div>
+<a href="zhuxi/"><span class="ep-no">16.1.1</span><span class="ep-title">주희: 세상은 이치(理)와 기운(氣)으로 되어 있다</span><span class="ep-time">읽기 5분</span></a>
+<a href="wang-yangming/"><span class="ep-no">16.1.2</span><span class="ep-title">왕양명: 아는 것과 하는 것은 하나</span><span class="ep-time">읽기 5분</span></a>
+<a href="toegye/"><span class="ep-no">16.2.1</span><span class="ep-title">퇴계: 착한 마음은 어디서 나오는가, 사단칠정 논쟁</span><span class="ep-time">읽기 5분</span></a>
+<a href="yulgok/"><span class="ep-no">16.2.2</span><span class="ep-title">율곡: 이치는 하나, 기운은 여럿</span><span class="ep-time">읽기 5분</span></a>
+<a href="dasan/"><span class="ep-no">16.2.3</span><span class="ep-title">정약용: 착함은 행동으로 이루어진다</span><span class="ep-time">읽기 5분</span></a>
 </div>
