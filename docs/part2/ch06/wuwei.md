@@ -54,7 +54,7 @@
 ## 출처와 기준
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
-    - <span class="src-tag">원전</span> 『노자』 8장, 18장, 30장, 38장, 48장, 57장, 60장, 65장, 74장, 75장, 80장. 8·18·48·57·60·80장은 [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_(王弼本))에서 원문을 대조했어요.
+    - <span class="src-tag">원전</span> 『노자』 8장, 18장, 30장, 38장, 48장, 57장, 60장, 65장, 74장, 75장, 80장. 8·18·48·57·60·80장은 [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_%28王弼本%29)에서 원문을 대조했어요.
     - <span class="src-tag">해설</span> Alan Chan, "[Laozi](https://plato.stanford.edu/entries/laozi/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 무위의 뜻과 번역, 자연, 정치 비판(30·74·75장), 유가 비판(18·38장), 65장 해석 논쟁을 여기서 확인했어요.
     - <span class="src-tag">해설</span> Chad Hansen, "[Daoism](https://plato.stanford.edu/entries/daoism/)", *Stanford Encyclopedia of Philosophy* (2025). 열어서 확인함.
 

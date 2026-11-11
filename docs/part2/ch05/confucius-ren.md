@@ -57,7 +57,7 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 『논어』 학이편 1.2, 안연편 12.1·12.2·12.11·12.22, 위령공편("내가 바라지 않는 일" 구절). 원문은 [위키문헌 『논어』](https://zh.wikisource.org/wiki/論語)에서 편 이름과 구절을 대조했어요.
-    - <span class="src-tag">원전</span> 『노자』 18장(큰 도가 사라지자 인의가 생김). [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_(王弼本))에서 대조했어요.
+    - <span class="src-tag">원전</span> 『노자』 18장(큰 도가 사라지자 인의가 생김). [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_%28王弼本%29)에서 대조했어요.
     - <span class="src-tag">해설</span> Mark Csikszentmihalyi, "[Confucius](https://plato.stanford.edu/entries/confucius/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 생몰 연도의 근거, 『논어』 편찬 논쟁, 인의 여러 정의, 황금률 해석 논쟁을 여기서 확인했어요.
     - <span class="src-tag">해설</span> Jeffrey Richey, "[Confucius](https://iep.utm.edu/confuciu/)", *Internet Encyclopedia of Philosophy*. 열어서 확인함.
 

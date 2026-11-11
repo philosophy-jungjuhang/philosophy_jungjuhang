@@ -53,7 +53,7 @@
 ## 출처와 기준
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
-    - <span class="src-tag">원전</span> 『노자』 1장, 11장, 25장. 원문은 [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_(王弼本))에서 대조했어요.
+    - <span class="src-tag">원전</span> 『노자』 1장, 11장, 25장. 원문은 [위키문헌 『도덕경』 왕필본](https://zh.wikisource.org/wiki/道德經_%28王弼本%29)에서 대조했어요.
     - <span class="src-tag">원전</span> 사마천, 『사기』 「노자한비열전」(63권). 내용은 SEP의 소개를 따랐어요.
     - <span class="src-tag">해설</span> Alan Chan, "[Laozi](https://plato.stanford.edu/entries/laozi/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 『사기』의 노자 이야기, 실존 논쟁, 책의 성립 시기, 마왕퇴·곽점 사본, 1장·25장의 해석을 여기서 확인했어요.
     - <span class="src-tag">해설</span> Ronnie Littlejohn, "[Daoist Philosophy](https://iep.utm.edu/dao/)", *Internet Encyclopedia of Philosophy*. 열어서 확인함.

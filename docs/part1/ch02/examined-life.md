@@ -58,7 +58,7 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 플라톤, 『소크라테스의 변론』 24b (고발 내용), 29d~30b (영혼의 돌봄), 30b (덕과 재물), 30e (등에 비유), 38a (돌아보지 않는 삶), 39d~e.
-    - <span class="src-tag">원전 확인</span> Perseus Digital Library, 플라톤 『변론』 38a (Fowler 영역)로 문장의 내용과 위치를 확인했어요.
+    - <span class="src-tag">원전</span> 『변론』 38a의 내용과 위치는 Perseus Digital Library의 Fowler 영역으로 확인했어요.
     - <span class="src-tag">해설</span> James M. Ambury, "[Socrates](https://iep.utm.edu/socrates/)", *Internet Encyclopedia of Philosophy*. 위 쪽수들, "돌아보지 않는 삶"의 해석, 오늘날 철학자들의 반론, 고발 내용, 에우다이모니아 해석을 확인했어요.
     - <span class="src-tag">해설</span> Debra Nails · S. Sara Monoson, "[Socrates](https://plato.stanford.edu/entries/socrates/)", *Stanford Encyclopedia of Philosophy* (2022 개정). 생몰 연도와 『변론』 38a의 위치를 확인했어요.
 
