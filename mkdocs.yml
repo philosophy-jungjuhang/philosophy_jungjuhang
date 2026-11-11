@@ -44,7 +44,7 @@ markdown_extensions:
   - toc: {permalink: true}
 nav:
   - 홈: index.md
-  - "I 철학의 시작: 고대 그리스":
+  - "I 철학의 시작":
     - part1/index.md
     - "1장 철학은 무엇을 묻는가":
       - part1/ch01/index.md
@@ -56,7 +56,7 @@ nav:
         - "플라톤은 보이는 것 너머에 진짜가 있다고 봤다: 이데아": part1/ch03/forms.md
     - "4장 아리스토텔레스":
       - part1/ch04/index.md
-  - "II 같은 시대, 동쪽에서: 고대 중국과 인도":
+  - "II 같은 시대, 동쪽에서":
     - part2/index.md
     - "5장 공자와 유가":
       - part2/ch05/index.md
@@ -64,7 +64,7 @@ nav:
       - part2/ch06/index.md
     - "7장 인도의 지혜":
       - part2/ch07/index.md
-  - "III 마음의 평화와 믿음: 헬레니즘과 중세":
+  - "III 마음의 평화와 믿음":
     - part3/index.md
     - "8장 마음의 평화를 찾아서":
       - part3/ch08/index.md
@@ -74,7 +74,7 @@ nav:
       - part3/ch10/index.md
     - "11장 불교, 동쪽으로":
       - part3/ch11/index.md
-  - "IV 의심과 이성: 근대의 문":
+  - "IV 의심과 이성":
     - part4/index.md
     - "12장 새로운 시대":
       - part4/ch12/index.md
@@ -86,7 +86,7 @@ nav:
       - part4/ch15/index.md
     - "16장 동아시아의 새 유학":
       - part4/ch16/index.md
-  - "V 19세기: 이성의 한계와 삶의 무게":
+  - "V 19세기":
     - part5/index.md
     - "17장 칸트와 그 뒤":
       - part5/ch17/index.md
@@ -94,7 +94,7 @@ nav:
       - part5/ch18/index.md
     - "19장 실존을 향해":
       - part5/ch19/index.md
-  - "VI 20세기: 언어, 존재, 정의":
+  - "VI 20세기":
     - part6/index.md
     - "20장 언어와 과학":
       - part6/ch20/index.md

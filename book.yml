@@ -2,7 +2,7 @@
 # 기준(뼈대): Adamson, History of Philosophy without any gaps / 대조: 윤리와 사상 교육과정(2015 고시), 워버턴 『철학의 역사』, OpenStax Introduction to Philosophy
 parts:
 - id: 1
-  title: 'I 철학의 시작: 고대 그리스'
+  title: 'I 철학의 시작'
   blurb: 세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 그리스 사람들이 처음 던진 질문을 따라가요.
   chapters:
   - num: 1
@@ -135,7 +135,7 @@ parts:
         min: 5
         done: false
 - id: 2
-  title: 'II 같은 시대, 동쪽에서: 고대 중국과 인도'
+  title: 'II 같은 시대, 동쪽에서'
   blurb: 그리스 철학자들이 활동하던 무렵, 중국과 인도에서도 같은 질문을 다르게 물었어요.
   chapters:
   - num: 5
@@ -214,7 +214,7 @@ parts:
         min: 5
         done: false
 - id: 3
-  title: 'III 마음의 평화와 믿음: 헬레니즘과 중세'
+  title: 'III 마음의 평화와 믿음'
   blurb: 흔들리지 않는 마음을 찾고, 믿음과 이성을 이으려 한 천 년의 이야기예요.
   chapters:
   - num: 8
@@ -313,7 +313,7 @@ parts:
         min: 5
         done: false
 - id: 4
-  title: 'IV 의심과 이성: 근대의 문'
+  title: 'IV 의심과 이성'
   blurb: 확실한 것은 무엇인지, 나라는 왜 있는지를 처음부터 다시 물었어요.
   chapters:
   - num: 12
@@ -454,7 +454,7 @@ parts:
         min: 5
         done: false
 - id: 5
-  title: 'V 19세기: 이성의 한계와 삶의 무게'
+  title: 'V 19세기'
   blurb: 칸트가 이성의 한계를 그었고, 그 뒤 사람들은 역사·행복·실존을 물었어요.
   chapters:
   - num: 17
@@ -534,7 +534,7 @@ parts:
         min: 5
         done: false
 - id: 6
-  title: 'VI 20세기: 언어, 존재, 정의'
+  title: 'VI 20세기'
   blurb: 말의 뜻, 과학의 방법, 자유와 책임, 공정한 사회를 물었어요.
   chapters:
   - num: 20
