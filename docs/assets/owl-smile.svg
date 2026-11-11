@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 360" stroke-linecap="round" stroke-linejoin="round">
+  <ellipse cx="150" cy="332" rx="92" ry="13" fill="#000" opacity=".14"/>
+  <!-- 발 -->
+  <path d="M104 306 l-14 22 M116 308 l0 24 M128 306 l14 22" stroke="#E8912E" stroke-width="11" fill="none"/>
+  <path d="M172 306 l-14 22 M184 308 l0 24 M196 306 l14 22" stroke="#E8912E" stroke-width="11" fill="none"/>
+  <!-- 귀깃 -->
+  <path d="M58 92 L44 18 L112 62Z" fill="#2B3A78" stroke="#141a33" stroke-width="10"/>
+  <path d="M242 92 L256 18 L188 62Z" fill="#2B3A78" stroke="#141a33" stroke-width="10"/>
+  <!-- 몸 -->
+  <path d="M150 46 C238 46 274 112 270 196 C266 272 220 318 150 318 C80 318 34 272 30 196 C26 112 62 46 150 46Z" fill="#2B3A78" stroke="#141a33" stroke-width="11"/>
+  <!-- 날개 -->
+  <path d="M44 170 C14 214 26 270 70 292 C64 250 62 210 44 170Z" fill="#1F2B5C" stroke="#141a33" stroke-width="9"/>
+  <path d="M256 170 C286 214 274 270 230 292 C236 250 238 210 256 170Z" fill="#1F2B5C" stroke="#141a33" stroke-width="9"/>
+  <!-- 배 -->
+  <ellipse cx="150" cy="248" rx="72" ry="62" fill="#F3EBD6"/>
+  <g fill="none" stroke="#C9BC98" stroke-width="7"><path d="M118 228 q10 10 20 0"/><path d="M162 228 q10 10 20 0"/><path d="M140 256 q10 10 20 0"/><path d="M118 284 q10 10 20 0"/><path d="M162 284 q10 10 20 0"/></g>
+  <!-- 얼굴 테 -->
+  <circle cx="104" cy="140" r="50" fill="#F3EBD6" stroke="#141a33" stroke-width="9"/>
+  <circle cx="196" cy="140" r="50" fill="#F3EBD6" stroke="#141a33" stroke-width="9"/>
+  <circle cx="104" cy="140" r="30" fill="#FFD93B" stroke="#141a33" stroke-width="7"/><circle cx="196" cy="140" r="30" fill="#FFD93B" stroke="#141a33" stroke-width="7"/><circle cx="108" cy="142" r="15" fill="#141a33"/><circle cx="200" cy="142" r="15" fill="#141a33"/><circle cx="113" cy="135" r="5" fill="#fff"/><circle cx="205" cy="135" r="5" fill="#fff"/><ellipse cx="66" cy="196" rx="18" ry="11" fill="#FF8FA0" opacity=".8"/><ellipse cx="234" cy="196" rx="18" ry="11" fill="#FF8FA0" opacity=".8"/>
+  <!-- 부리 -->
+  <path d="M136 176 L164 176 L150 204Z" fill="#E8912E" stroke="#141a33" stroke-width="8"/>
+</svg>

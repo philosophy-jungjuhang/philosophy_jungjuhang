@@ -1,0 +1,697 @@
+# 책 전체 목차와 진행 상태의 단일 원본. 페이지를 쓰면 done: true로 바꾸고 `python3 tools/build_book.py`를 실행한다.
+# 기준(뼈대): Adamson, History of Philosophy without any gaps / 대조: 윤리와 사상 교육과정(2015 고시), 워버턴 『철학의 역사』, OpenStax Introduction to Philosophy
+parts:
+- id: 1
+  title: 'I 철학의 시작: 고대 그리스'
+  blurb: 세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 그리스 사람들이 처음 던진 질문을 따라가요.
+  chapters:
+  - num: 1
+    title: 철학은 무엇을 묻는가
+    blurb: 철학이 어떤 일인지, 첫 철학자들이 세상을 어떻게 설명하려 했는지 알아봐요.
+    sections:
+    - num: '1.1'
+      title: 철학이라는 질문 놀이
+      pages:
+      - slug: what-is-philosophy
+        title: 철학은 '왜?'를 끝까지 묻는 일
+        min: 5
+        done: false
+      - slug: wonder
+        title: 철학은 놀라움에서 시작된다
+        min: 5
+        done: false
+    - num: '1.2'
+      title: 최초의 철학자들
+      pages:
+      - slug: thales
+        title: '탈레스: 세상은 무엇으로 되어 있을까'
+        min: 5
+        done: false
+      - slug: heraclitus
+        title: '헤라클레이토스: 모든 것은 흐른다'
+        min: 5
+        done: false
+      - slug: parmenides
+        title: '파르메니데스: 변화는 착각일까'
+        min: 5
+        done: false
+      - slug: pythagoras
+        title: '피타고라스: 세상 속에 숨은 수'
+        min: 5
+        done: false
+      - slug: democritus
+        title: '데모크리토스: 더 쪼갤 수 없는 알갱이, 원자'
+        min: 5
+        done: false
+  - num: 2
+    title: 소크라테스
+    blurb: 책을 한 권도 쓰지 않았는데 철학의 상징이 된 사람이에요.
+    sections:
+    - num: '2.1'
+      title: 묻는 사람
+      pages:
+      - slug: sophists
+        title: '소피스트: 사람이 만물의 척도일까'
+        min: 5
+        done: false
+      - slug: know-nothing
+        title: 소크라테스는 '모른다는 것'을 알았다
+        min: 5
+        done: false
+      - slug: socratic-method
+        title: '질문으로 생각을 끌어내기: 문답법'
+        min: 5
+        done: false
+      - slug: examined-life
+        title: 돌아보지 않는 삶은 살 만할까
+        min: 5
+        done: false
+      - slug: socrates-death
+        title: 소크라테스는 왜 감옥에서 도망치지 않았을까
+        min: 5
+        done: false
+  - num: 3
+    title: 플라톤
+    blurb: 보이는 세상 너머에 진짜가 있다고 본 사람이에요.
+    sections:
+    - num: '3.1'
+      title: 두 개의 세계
+      pages:
+      - slug: forms
+        title: '플라톤은 보이는 것 너머에 진짜가 있다고 봤다: 이데아'
+        min: 5
+        done: true
+      - slug: cave
+        title: '동굴의 비유: 그림자만 보고 산다면'
+        min: 5
+        done: false
+    - num: '3.2'
+      title: 마음과 나라
+      pages:
+      - slug: soul-three
+        title: 마음은 세 부분으로 되어 있다
+        min: 5
+        done: false
+      - slug: ring-of-gyges
+        title: '아무도 안 보면 착하게 살까: 기게스의 반지'
+        min: 5
+        done: false
+      - slug: philosopher-king
+        title: 철학자가 다스리는 나라
+        min: 5
+        done: false
+  - num: 4
+    title: 아리스토텔레스
+    blurb: 스승 플라톤과 달리, 진짜는 사물 안에 있다고 본 사람이에요.
+    sections:
+    - num: '4.1'
+      title: 세상을 정리하는 법
+      pages:
+      - slug: aristotle-vs-plato
+        title: 진짜는 사물 안에 있다
+        min: 5
+        done: false
+      - slug: four-causes
+        title: 무엇이든 네 가지 '왜'로 설명한다
+        min: 5
+        done: false
+      - slug: syllogism
+        title: '생각에도 규칙이 있다: 삼단논법'
+        min: 5
+        done: false
+    - num: '4.2'
+      title: 잘 사는 법
+      pages:
+      - slug: eudaimonia
+        title: 행복은 기분이 아니라 잘 사는 활동
+        min: 5
+        done: false
+      - slug: golden-mean
+        title: '중용: 용기는 무모함과 비겁함 사이'
+        min: 5
+        done: false
+      - slug: political-animal
+        title: 사람은 함께 살아야 사람이 된다
+        min: 5
+        done: false
+- id: 2
+  title: 'II 같은 시대, 동쪽에서: 고대 중국과 인도'
+  blurb: 그리스 철학자들이 활동하던 무렵, 중국과 인도에서도 같은 질문을 다르게 물었어요.
+  chapters:
+  - num: 5
+    title: 공자와 유가
+    blurb: 좋은 사람, 좋은 사회는 관계 속에서 만들어진다고 본 사람들이에요.
+    sections:
+    - num: '5.1'
+      title: 공자
+      pages:
+      - slug: confucius-ren
+        title: '공자: 사람다움, 인(仁)'
+        min: 5
+        done: false
+      - slug: confucius-li
+        title: '예(禮): 마음을 담은 몸가짐'
+        min: 5
+        done: false
+    - num: '5.2'
+      title: 사람의 본성
+      pages:
+      - slug: mencius
+        title: '맹자: 사람은 착하게 태어난다'
+        min: 5
+        done: false
+      - slug: xunzi
+        title: '순자: 본성은 가꾸어야 착해진다'
+        min: 5
+        done: false
+  - num: 6
+    title: 노자, 장자, 묵자
+    blurb: 억지로 하지 않는 삶, 모두를 아끼는 삶을 말한 사람들이에요.
+    sections:
+    - num: '6.1'
+      title: 도가
+      pages:
+      - slug: laozi-dao
+        title: '노자: 이름 붙일 수 없는 길, 도(道)'
+        min: 5
+        done: false
+      - slug: wuwei
+        title: '억지로 하지 않기: 무위(無爲)'
+        min: 5
+        done: false
+      - slug: zhuangzi-butterfly
+        title: '장자: 나비 꿈과 자유로운 마음'
+        min: 5
+        done: false
+    - num: '6.2'
+      title: 묵가
+      pages:
+      - slug: mozi
+        title: '묵자: 내 가족처럼 모두를 아껴라, 겸애'
+        min: 5
+        done: false
+  - num: 7
+    title: 인도의 지혜
+    blurb: 나는 누구인가, 괴로움은 왜 생기는가를 깊이 물었어요.
+    sections:
+    - num: '7.1'
+      title: 나를 찾아서
+      pages:
+      - slug: upanishad-atman
+        title: '우파니샤드: 내 안의 나와 우주의 근원'
+        min: 5
+        done: false
+      - slug: four-truths
+        title: '붓다: 괴로움을 끝내는 네 가지 진리'
+        min: 5
+        done: false
+      - slug: no-self
+        title: '붓다: 변하지 않는 ''나''는 없다, 무아'
+        min: 5
+        done: false
+      - slug: nagarjuna
+        title: '나가르주나: 모든 것은 기대어 있다, 공(空)'
+        min: 5
+        done: false
+- id: 3
+  title: 'III 마음의 평화와 믿음: 헬레니즘과 중세'
+  blurb: 흔들리지 않는 마음을 찾고, 믿음과 이성을 이으려 한 천 년의 이야기예요.
+  chapters:
+  - num: 8
+    title: 마음의 평화를 찾아서
+    blurb: 나라가 흔들리던 시대, 사람들은 개인의 행복을 물었어요.
+    sections:
+    - num: '8.1'
+      title: 헬레니즘 철학
+      pages:
+      - slug: epicurus
+        title: '에피쿠로스: 작은 기쁨으로 사는 법'
+        min: 5
+        done: false
+      - slug: stoics
+        title: '스토아: 내가 바꿀 수 있는 것에만 마음 쓰기'
+        min: 5
+        done: false
+      - slug: skeptics
+        title: '회의주의: 판단을 잠시 멈추기'
+        min: 5
+        done: false
+      - slug: diogenes
+        title: '디오게네스: 가진 것 없이 자유롭게'
+        min: 5
+        done: false
+  - num: 9
+    title: 믿음과 이성
+    blurb: 신을 믿는 일과 생각하는 일은 함께 갈 수 있을까요?
+    sections:
+    - num: '9.1'
+      title: 고대 끝 무렵
+      pages:
+      - slug: augustine-evil
+        title: '아우구스티누스: 나쁜 일은 어디서 왔을까'
+        min: 5
+        done: false
+      - slug: augustine-time
+        title: '아우구스티누스: 시간이란 무엇일까'
+        min: 5
+        done: false
+      - slug: boethius
+        title: '보에티우스: 운명이 등을 돌릴 때'
+        min: 5
+        done: false
+    - num: '9.2'
+      title: 중세 유럽
+      pages:
+      - slug: anselm
+        title: '안셀무스: 생각만으로 신을 증명할 수 있을까'
+        min: 5
+        done: false
+      - slug: aquinas
+        title: '아퀴나스: 신앙과 이성은 싸우지 않는다'
+        min: 5
+        done: false
+      - slug: ockham
+        title: '오컴의 면도날: 설명은 단순하게'
+        min: 5
+        done: false
+  - num: 10
+    title: 이슬람 세계의 철학
+    blurb: 그리스 철학을 지키고 발전시켜 유럽에 다시 건넨 사람들이에요.
+    sections:
+    - num: '10.1'
+      title: 바그다드에서 코르도바까지
+      pages:
+      - slug: translation-movement
+        title: '바그다드의 번역 운동: 그리스 철학을 이어받다'
+        min: 5
+        done: false
+      - slug: avicenna
+        title: '이븐 시나: 허공에 뜬 사람도 자신을 알까'
+        min: 5
+        done: false
+      - slug: al-ghazali
+        title: '가잘리: 불은 정말 솜을 태우는가'
+        min: 5
+        done: false
+      - slug: averroes
+        title: '이븐 루시드: 철학과 종교는 같은 진리를 말한다'
+        min: 5
+        done: false
+  - num: 11
+    title: 불교, 동쪽으로
+    blurb: 인도에서 시작한 불교가 한반도에서 새롭게 꽃피었어요.
+    sections:
+    - num: '11.1'
+      title: 한국 불교
+      pages:
+      - slug: wonhyo
+        title: '원효: 다투는 생각들을 하나로, 화쟁'
+        min: 5
+        done: false
+      - slug: jinul
+        title: '지눌: 단번에 깨닫고 꾸준히 닦기'
+        min: 5
+        done: false
+- id: 4
+  title: 'IV 의심과 이성: 근대의 문'
+  blurb: 확실한 것은 무엇인지, 나라는 왜 있는지를 처음부터 다시 물었어요.
+  chapters:
+  - num: 12
+    title: 새로운 시대
+    blurb: 교회와 옛 책 대신 사람과 경험을 보기 시작했어요.
+    sections:
+    - num: '12.1'
+      title: 르네상스와 그 뒤
+      pages:
+      - slug: machiavelli
+        title: '마키아벨리: 정치는 있는 그대로 보자'
+        min: 5
+        done: false
+      - slug: montaigne
+        title: '몽테뉴: 나는 무엇을 아는가'
+        min: 5
+        done: false
+      - slug: bacon
+        title: '베이컨: 머릿속 네 가지 우상'
+        min: 5
+        done: false
+  - num: 13
+    title: 이성으로 확실한 것 찾기
+    blurb: 생각만으로 흔들리지 않는 토대를 찾으려 했어요.
+    sections:
+    - num: '13.1'
+      title: 데카르트
+      pages:
+      - slug: methodic-doubt
+        title: '데카르트: 모든 것을 한 번 의심해 보기'
+        min: 5
+        done: false
+      - slug: cogito
+        title: 나는 생각한다, 그러므로 나는 있다
+        min: 5
+        done: false
+      - slug: mind-body
+        title: 마음과 몸은 다른 것일까
+        min: 5
+        done: false
+    - num: '13.2'
+      title: 데카르트 다음
+      pages:
+      - slug: spinoza
+        title: '스피노자: 신은 곧 자연이다'
+        min: 5
+        done: false
+      - slug: leibniz
+        title: '라이프니츠: 왜 아무것도 없지 않고 무언가 있을까'
+        min: 5
+        done: false
+      - slug: pascal
+        title: '파스칼: 생각하는 갈대와 신에 대한 내기'
+        min: 5
+        done: false
+  - num: 14
+    title: 경험에서 시작하기
+    blurb: 모든 앎은 보고 듣고 만지는 데서 온다고 봤어요.
+    sections:
+    - num: '14.1'
+      title: 경험론
+      pages:
+      - slug: locke-blank-slate
+        title: '로크: 우리는 빈 종이로 태어난다'
+        min: 5
+        done: false
+      - slug: berkeley
+        title: '버클리: 아무도 안 보면 나무는 있을까'
+        min: 5
+        done: false
+      - slug: hume-cause
+        title: '흄: 원인과 결과는 눈에 보이지 않는다'
+        min: 5
+        done: false
+      - slug: hume-is-ought
+        title: '흄: ''이렇다''에서 ''이래야 한다''로 건너뛸 수 있을까'
+        min: 5
+        done: false
+      - slug: hume-self
+        title: '흄: ''나''는 느낌들의 묶음일까'
+        min: 5
+        done: false
+  - num: 15
+    title: 나라는 왜 있을까
+    blurb: 사람들이 약속해서 나라를 만들었다고 상상해 봤어요.
+    sections:
+    - num: '15.1'
+      title: 사회계약과 계몽
+      pages:
+      - slug: hobbes
+        title: '홉스: 나라가 없으면 모두가 모두와 싸운다'
+        min: 5
+        done: false
+      - slug: locke-rights
+        title: '로크: 누구도 빼앗을 수 없는 권리'
+        min: 5
+        done: false
+      - slug: rousseau
+        title: '루소: 모두의 뜻, 일반의지'
+        min: 5
+        done: false
+      - slug: wollstonecraft
+        title: '울스턴크래프트: 여성에게도 같은 교육을'
+        min: 5
+        done: false
+      - slug: zera-yacob
+        title: '제라 야콥: 에티오피아 동굴에서 이성으로 묻다'
+        min: 5
+        done: false
+  - num: 16
+    title: 동아시아의 새 유학
+    blurb: 우주의 이치와 사람의 마음을 하나로 설명하려 했어요. 조선 선비들의 논쟁도 여기서 만나요.
+    sections:
+    - num: '16.1'
+      title: 성리학과 양명학
+      pages:
+      - slug: zhuxi
+        title: '주희: 세상은 이치(理)와 기운(氣)으로 되어 있다'
+        min: 5
+        done: false
+      - slug: wang-yangming
+        title: '왕양명: 아는 것과 하는 것은 하나'
+        min: 5
+        done: false
+    - num: '16.2'
+      title: 조선의 철학
+      pages:
+      - slug: toegye
+        title: '퇴계: 착한 마음은 어디서 나오는가, 사단칠정 논쟁'
+        min: 5
+        done: false
+      - slug: yulgok
+        title: '율곡: 이치는 하나, 기운은 여럿'
+        min: 5
+        done: false
+      - slug: dasan
+        title: '정약용: 착함은 행동으로 이루어진다'
+        min: 5
+        done: false
+- id: 5
+  title: 'V 19세기: 이성의 한계와 삶의 무게'
+  blurb: 칸트가 이성의 한계를 그었고, 그 뒤 사람들은 역사·행복·실존을 물었어요.
+  chapters:
+  - num: 17
+    title: 칸트와 그 뒤
+    blurb: 우리가 세상을 보는 안경 자체를 살펴봤어요.
+    sections:
+    - num: '17.1'
+      title: 칸트
+      pages:
+      - slug: kant-lens
+        title: '칸트: 우리는 세상을 마음의 안경으로 본다'
+        min: 5
+        done: false
+      - slug: categorical-imperative
+        title: '칸트: 누구나 따라도 되는 규칙인가'
+        min: 5
+        done: false
+      - slug: kant-enlightenment
+        title: '칸트: 계몽은 스스로 생각할 용기'
+        min: 5
+        done: false
+    - num: '17.2'
+      title: 칸트 다음
+      pages:
+      - slug: hegel
+        title: '헤겔: 생각은 부딪히며 자란다'
+        min: 5
+        done: false
+      - slug: schopenhauer
+        title: '쇼펜하우어: 끝없이 바라는 마음'
+        min: 5
+        done: false
+  - num: 18
+    title: 가장 많은 사람의 행복
+    blurb: 결과로 옳고 그름을 따지고, 사회의 구조를 물었어요.
+    sections:
+    - num: '18.1'
+      title: 공리주의와 그 비판
+      pages:
+      - slug: bentham
+        title: '벤담: 최대 다수의 최대 행복'
+        min: 5
+        done: false
+      - slug: mill-harm
+        title: '밀: 남을 해치지 않는 한 자유롭게'
+        min: 5
+        done: false
+      - slug: mill-quality
+        title: '밀: 기쁨에도 질이 있다'
+        min: 5
+        done: false
+      - slug: marx
+        title: '마르크스: 일하면서 낯설어지는 사람'
+        min: 5
+        done: false
+  - num: 19
+    title: 실존을 향해
+    blurb: 정해진 답이 없을 때, 나는 어떻게 살아야 할까요?
+    sections:
+    - num: '19.1'
+      title: 고독한 질문자들
+      pages:
+      - slug: kierkegaard
+        title: '키르케고르: 선택하는 개인'
+        min: 5
+        done: false
+      - slug: nietzsche-god-dead
+        title: '니체: ''신은 죽었다''의 진짜 뜻'
+        min: 5
+        done: false
+      - slug: nietzsche-eternal
+        title: '니체: 같은 삶을 영원히 반복해도 좋은가'
+        min: 5
+        done: false
+      - slug: william-james
+        title: '윌리엄 제임스: 생각은 쓸모로 시험된다'
+        min: 5
+        done: false
+- id: 6
+  title: 'VI 20세기: 언어, 존재, 정의'
+  blurb: 말의 뜻, 과학의 방법, 자유와 책임, 공정한 사회를 물었어요.
+  chapters:
+  - num: 20
+    title: 언어와 과학
+    blurb: 철학의 문제가 말을 잘못 써서 생긴 건 아닐까요?
+    sections:
+    - num: '20.1'
+      title: 말과 과학
+      pages:
+      - slug: wittgenstein-early
+        title: '비트겐슈타인: 말할 수 없는 것에는 침묵하라'
+        min: 5
+        done: false
+      - slug: wittgenstein-games
+        title: '비트겐슈타인: 낱말의 뜻은 쓰임에 있다'
+        min: 5
+        done: false
+      - slug: popper
+        title: '포퍼: 틀릴 수 있어야 과학이다'
+        min: 5
+        done: false
+      - slug: kuhn
+        title: '쿤: 과학은 패러다임이 바뀌며 자란다'
+        min: 5
+        done: false
+  - num: 21
+    title: 실존과 자유
+    blurb: 사람은 스스로 자기를 만들어 간다고 봤어요.
+    sections:
+    - num: '21.1'
+      title: 실존주의와 그 주변
+      pages:
+      - slug: heidegger
+        title: '하이데거: 언젠가 죽는 존재로 산다는 것'
+        min: 5
+        done: false
+      - slug: sartre
+        title: '사르트르: 실존은 본질에 앞선다'
+        min: 5
+        done: false
+      - slug: beauvoir
+        title: '보부아르: 여자로 태어나지 않고 여자가 된다'
+        min: 5
+        done: false
+      - slug: camus
+        title: '카뮈: 굴러떨어지는 바위와 시시포스'
+        min: 5
+        done: false
+      - slug: arendt
+        title: '아렌트: 생각하지 않을 때 생기는 악'
+        min: 5
+        done: false
+  - num: 22
+    title: 정의와 권력
+    blurb: 공정한 사회, 보이지 않는 힘을 물었어요.
+    sections:
+    - num: '22.1'
+      title: 공정과 힘
+      pages:
+      - slug: rawls
+        title: '롤스: 무지의 베일 뒤에서 규칙 정하기'
+        min: 5
+        done: false
+      - slug: nozick
+        title: '노직: 정당하게 얻은 것은 내 것'
+        min: 5
+        done: false
+      - slug: foucault
+        title: '푸코: 감시하는 눈과 보이지 않는 권력'
+        min: 5
+        done: false
+      - slug: ubuntu
+        title: '우분투: 나는 우리가 있어 내가 된다'
+        min: 5
+        done: false
+- id: 7
+  title: VII 주제로 다시 읽기 ★
+  blurb: 앞에서 만난 철학자들을 큰 질문 하나로 다시 모아 비교해요.
+  chapters:
+  - num: 23
+    title: 큰 질문들 ★
+    blurb: 같은 질문에 시대와 지역마다 다른 답을 나란히 놓아 봐요.
+    sections:
+    - num: '23.1'
+      title: 앎과 존재 ★
+      pages:
+      - slug: q-knowledge
+        title: 무엇을 확실히 알 수 있을까
+        min: 5
+        done: false
+      - slug: q-self
+        title: '나는 누구일까: 붓다, 로크, 흄'
+        min: 5
+        done: false
+      - slug: q-mind
+        title: 마음은 뇌일까
+        min: 5
+        done: false
+      - slug: q-god
+        title: '신은 있을까: 증명과 반론'
+        min: 5
+        done: false
+    - num: '23.2'
+      title: 삶과 사회 ★
+      pages:
+      - slug: q-right-wrong
+        title: '옳고 그름은 무엇으로 정할까: 결과, 의무, 덕'
+        min: 5
+        done: false
+      - slug: q-free-will
+        title: 자유의지는 있을까
+        min: 5
+        done: false
+      - slug: q-justice
+        title: 공정한 사회는 어떤 모습일까
+        min: 5
+        done: false
+      - slug: q-meaning
+        title: 삶의 의미는 어디서 올까
+        min: 5
+        done: false
+  - num: 24
+    title: 오늘의 쟁점 ★
+    blurb: 답이 갈리는 문제에서 서로 다른 입장을 공정하게 살펴봐요.
+    sections:
+    - num: '24.1'
+      title: 함께 생각할 문제 ★
+      pages:
+      - slug: trolley
+        title: '한 명과 다섯 명: 트롤리 문제'
+        min: 5
+        done: false
+      - slug: animals
+        title: 동물은 어떻게 대해야 할까
+        min: 5
+        done: false
+      - slug: tech-ethics
+        title: 기계에게도 책임을 물을 수 있을까
+        min: 5
+        done: false
+- id: A
+  title: 부록
+  blurb: 용어, 연표, 읽는 순서, 참고 자료예요.
+  flat:
+  - slug: glossary
+    title: 용어집
+    min: 4
+    done: false
+  - slug: timeline
+    title: 동서양 철학 연표
+    min: 4
+    done: false
+  - slug: reading-order
+    title: 읽는 순서 추천
+    min: 4
+    done: false
+  - slug: references
+    title: 참고 자료 목록
+    min: 4
+    done: false
