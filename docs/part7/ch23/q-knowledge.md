@@ -21,7 +21,7 @@
 |---|---|---|---|
 | 이성에서 출발한다 | 데카르트 | 모든 걸 의심해도 "의심하는 나"는 남는다. 거기서 다시 쌓는다 | 생각하는 나에서 바깥 세상까지 건너가는 다리가 약하다 |
 | 경험에서 출발한다 | 로크, 흄 | 태어날 때 마음은 빈 종이 같고, 생각의 재료는 모두 경험에서 온다 | 경험만으로는 "반드시 그렇다"는 확실함을 얻기 어렵다(흄 자신이 이 문제를 파고들었다) |
-| 판단을 멈춘다 | 피론주의 회의주의자, 장자 | 어떤 주장에도 맞먹는 반대 주장이 있다. 그러니 단정하지 말자 | "아무것도 단정하지 말라"는 말도 하나의 단정 아닌가 |
+| 판단을 멈춘다 | 피론주의 회의주의자(섹스투스 엠피리쿠스). 장자와 닮은 점도 있다(아래) | 어떤 주장에도 맞먹는 반대 주장이 있다. 그러니 단정하지 말자 | "아무것도 단정하지 말라"는 말도 하나의 단정 아닌가 |
 | 둘을 합친다 | 칸트 | 경험이 재료를 주고, 마음이 공간·시간 같은 틀로 정리한다 | 그러면 틀 바깥의 세상 그 자체는 영영 알 수 없게 된다 |
 
 데카르트는 『성찰』 첫째 성찰에서 감각, 꿈, 심지어 나를 속이는 존재까지 끌어들여 모든 걸 의심했어요. 둘째 성찰에서 그래도 "지금 의심하고 있는 나"는 있다는 데 이르러요([앞에서 본 페이지](../../part4/ch13/cogito.md)). 로크는 『인간지성론』에서 마음이 처음엔 빈 종이 같다고 했어요([로크 페이지](../../part4/ch14/locke-blank-slate.md)). 칸트는 『순수이성비판』에서 우리가 아는 것은 마음의 틀을 거쳐 나타난 세상이라고 봤어요([칸트 페이지](../../part5/ch17/kant-lens.md)).
@@ -32,7 +32,7 @@
 
 공자는 『논어』 「위정」 편(2.17)에서 제자에게, 아는 것은 안다 하고 모르는 것은 모른다 하는 것이 아는 것이라고 일렀어요. 확실함을 쌓는 방법보다 **내 앎의 경계를 정직하게 아는 태도**에 무게를 둔 답이에요.
 
-장자는 나비가 되어 날아다닌 꿈을 꾸고 깨어나서, 내가 나비 꿈을 꾼 건지 나비가 내 꿈을 꾸는 건지 모르겠다고 했어요([장자 페이지](../../part2/ch06/zhuangzi-butterfly.md)). 꿈속에서는 꿈인 줄 모르잖아요. 그렇다면 지금 깨어 있다는 확신은 어디서 올까요? 데카르트가 첫째 성찰에서 꺼낸 꿈 이야기와 놀랍도록 닮았지만, 장자는 그 의심을 딛고 확실한 토대를 쌓으려 하지 않았어요. 오히려 하나의 관점에 매이지 않는 자유로 이어 갔다고 읽는 학자가 많아요.
+장자는 나비가 되어 날아다닌 꿈을 꾸고 깨어나서, 내가 나비 꿈을 꾼 건지 나비가 내 꿈을 꾸는 건지 모르겠다고 했어요([장자 페이지](../../part2/ch06/zhuangzi-butterfly.md)). 꿈속에서는 꿈인 줄 모르잖아요. 그렇다면 지금 깨어 있다는 확신은 어디서 올까요? 데카르트가 첫째 성찰에서 꺼낸 꿈 이야기와 놀랍도록 닮았지만, 장자는 그 의심을 딛고 확실한 토대를 쌓으려 하지 않았어요. 오히려 하나의 관점에 매이지 않는 자유로 이어 갔다고 읽는 학자가 많아요. 그래서 장자를 피론주의 회의주의자와 견주는 연구도 있지만, 둘이 같지는 않아요. 피론주의는 어떤 주장에든 같은 무게의 반대 주장을 맞세워 판단을 멈추는 방법을 썼어요. 장자는 그런 방법보다 이야기와 관점 바꾸기로 말하고, 그를 회의주의자로 볼지 상대주의자로 볼지도 학자마다 의견이 갈려요.
 
 ## 아직 끝나지 않은 질문
 
@@ -69,8 +69,8 @@
     - <span class="src-tag">해설</span> Juan Comesaña & Peter Klein, "[Skepticism](https://plato.stanford.edu/entries/skepticism/)", *Stanford Encyclopedia of Philosophy* (2026 개정).
     - <span class="src-tag">해설</span> Katja Vogt, "[Ancient Skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)", *Stanford Encyclopedia of Philosophy* (2022 개정). 피론주의가 마음의 고요를 목표로 한다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Lex Newman, "[Descartes' Epistemology](https://plato.stanford.edu/entries/descartes-epistemology/)"; William Uzgalis, "[John Locke](https://plato.stanford.edu/entries/locke/)"; Nicholas F. Stang, "[Kant's Transcendental Idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/)", *Stanford Encyclopedia of Philosophy*.
-    - <span class="src-tag">해설</span> Mark Csikszentmihalyi, "[Confucius](https://plato.stanford.edu/entries/confucius/)"; Chad Hansen, "[Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)", *Stanford Encyclopedia of Philosophy*. 『논어』 2.17과 나비 꿈 이야기를 확인했어요.
+    - <span class="src-tag">해설</span> Mark Csikszentmihalyi, "[Confucius](https://plato.stanford.edu/entries/confucius/)"; Chad Hansen, "[Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)", *Stanford Encyclopedia of Philosophy*. 『논어』 2.17과 나비 꿈 이야기, 장자에게서 회의주의·상대주의의 함의를 읽는 해석과 장자·섹스투스 엠피리쿠스 비교 연구(Kjellberg 1994) 서지를 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 『테아이테토스』 법정 예의 스테파누스 쪽수(201a~c로 알려짐)는 직접 대조하지 못했어요. 나비 꿈이 「제물론」 편 끝에 있다는 것은 SEP에서 편 이름까지 확인하지 못했어요. 장자의 의심을 "자유로 이어 갔다"는 읽기는 해석의 하나예요.
