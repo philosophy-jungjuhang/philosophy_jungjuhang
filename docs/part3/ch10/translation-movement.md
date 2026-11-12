@@ -21,7 +21,7 @@
 |---|---|---|
 | 8세기 후반 | 칼리프 알만수르 시대의 번역가들 | 아리스토텔레스 논리학의 요약본 |
 | 9세기 전반 | 알킨디(al-Kindī)와 그 주변 번역가들 | 아리스토텔레스 『형이상학』, 플로티노스와 프로클로스의 글 일부 |
-| 9세기 후반 | 후나인 이븐 이스하크(Ḥunayn ibn Isḥāq, 873년 사망)와 아들 이스하크 | 아리스토텔레스 저작 거의 전부, 갈레노스의 의학서, 플라톤의 글 일부 |
+| 9세기 후반 | 후나인 이븐 이스하크(Ḥunayn ibn Isḥāq, 873년 사망)와 아들 이스하크, 그리고 둘레의 번역가 무리 | 아리스토텔레스 저작 거의 전부(새로 옮기거나 앞선 번역을 고쳐서), 갈레노스의 의학서, 플라톤의 글 일부 |
 
 후나인은 네스토리우스파 기독교인 의사였어요. 번역가 가운데에는 이처럼 기독교인이 많았고, 시리아어가 그리스어와 아랍어 사이의 다리 노릇을 했어요. 알킨디는 아랍어로 철학을 한 첫 사람이라는 뜻에서 "첫 번째 팔라수프(faylasūf, 철학자)"로 불려요. 그는 옮겨진 그리스 철학을 써서 이슬람의 핵심 믿음인 '신은 하나'라는 주장을 논증하려 했어요.
 
@@ -31,9 +31,9 @@
 
 이 질문에는 학자들의 생각이 조금 갈려요. 대부분의 학자는 아랍어로 하는 철학(팔사파, falsafa)이 이 번역 운동에서 생겨났다고 봐요. 한편 이슬람 철학의 뿌리를 쿠란과 이슬람 전통이 말하는 '지혜(ḥikma)'에서 찾고, 그리스 책은 그 지혜를 찾는 도구였다고 보는 학자들도 있어요. 스탠퍼드 철학 백과사전의 이 항목도 어느 한쪽으로 결론 내리지 않고 두 입장을 함께 소개해요.
 
-이야기는 바그다드에서 끝나지 않았어요. 12~13세기 스페인의 톨레도 같은 곳에서 이븐 시나의 『치유의 책』이 라틴어로 옮겨졌고, 1220년 무렵부터는 이븐 루시드가 아리스토텔레스에 붙인 해설도 라틴어로 옮겨졌어요. 그리스에서 아랍으로 건너간 생각이 이번에는 유럽의 대학으로 건너간 거예요.
+이야기는 바그다드에서 끝나지 않았어요. 12~13세기 스페인의 톨레도 같은 곳에서 이븐 시나의 『치유의 책』 가운데 영혼론·형이상학 같은 여러 부분이 라틴어로 옮겨졌고, 1220년 무렵부터는 이븐 루시드가 아리스토텔레스에 붙인 해설도 라틴어로 옮겨졌어요. 그리스에서 아랍으로 건너간 생각이 이번에는 유럽의 대학으로 건너간 거예요.
 
-비슷한 시기 동쪽에서도 번역이 사상을 바꾸고 있었어요. 7세기 당나라의 현장이 인도 불경을 한문으로 옮겼고, 신라의 원효와 의상은 그에게 배우러 유학길에 나섰어요. 이 이야기는 11장에서 다뤄요.
+비슷한 시기 동쪽에서도 번역이 사상을 바꾸고 있었어요. 7세기 당나라의 현장이 인도 불경을 한문으로 옮겼고, 신라의 원효와 의상은 그에게 배우려고 유학길에 나섰다고 전해져요(원효는 도중에 돌아왔고, 뒤에 당나라에 간 의상이 실제로 배운 스승은 화엄학의 지엄이었어요). 이 이야기는 11장에서 다뤄요.
 
 !!! tip "10살 눈높이 한 줄 요약"
     바그다드의 번역가들은 그리스 사람들의 책을 아랍어로 옮겼고, 그 책을 읽은 사람들이 새로운 철학을 만들었어요.
@@ -61,11 +61,11 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 알킨디, 『제1철학에 대하여』 (신의 하나임을 논증, 칼리프 알무타심에게 바침). 위치 확인 필요.
-    - <span class="src-tag">해설</span> Cristina D'Ancona, "[Greek Sources in Arabic and Islamic Philosophy](https://plato.stanford.edu/entries/arabic-islamic-greek/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 번역의 시기별 흐름, 알킨디 무리와 후나인 무리, '지혜의 집'에 대한 견해, 팔사파의 기원 논쟁을 여기서 확인했어요.
-    - <span class="src-tag">해설</span> Sajjad H. Rizvi, "[Avicenna (Ibn Sina)](https://iep.utm.edu/avicenna/)", *Internet Encyclopedia of Philosophy*. 『치유의 책』이 12~13세기 스페인(톨레도, 부르고스)에서 라틴어로 옮겨진 일을 확인했어요.
+    - <span class="src-tag">해설</span> Cristina D'Ancona, "[Greek Sources in Arabic and Islamic Philosophy](https://plato.stanford.edu/entries/arabic-islamic-greek/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 번역의 시기별 흐름, 알킨디 무리와 후나인 무리(앞선 번역의 개정 포함), '지혜의 집'에 대한 견해, 팔사파의 기원 논쟁을 여기서 확인했어요.
+    - <span class="src-tag">해설</span> Sajjad H. Rizvi, "[Avicenna (Ibn Sina)](https://iep.utm.edu/avicenna/)", *Internet Encyclopedia of Philosophy*. 『치유의 책』이 12~13세기 스페인(톨레도, 부르고스)에서 라틴어로 옮겨진 일, 라틴어로 전한 것이 주로 그 가운데 몇 부분이었다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Fouad Ben Ahmed, "[Ibn Rushd [Averroes]](https://plato.stanford.edu/entries/ibn-rushd/)", *Stanford Encyclopedia of Philosophy* (2025 개정), 9.3절. 이븐 루시드 해설서의 라틴어 번역이 1220년 무렵 시작된 것을 확인했어요.
-    - <span class="src-tag">해설</span> Lucy Hyekyung Jee, "[Korean Buddhism](https://plato.stanford.edu/entries/korean-buddhism/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 원효와 의상이 현장에게 배우려 한 일을 확인했어요.
+    - <span class="src-tag">해설</span> Lucy Hyekyung Jee, "[Korean Buddhism](https://plato.stanford.edu/entries/korean-buddhism/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 원효와 의상이 현장에게 배우려 한 일, 의상이 당나라에서 지엄에게 배운 일을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 알킨디 『제1철학에 대하여』의 원문 위치는 확인하지 못했어요. 현장의 생몰 연도는 이 페이지에 적지 않았어요(확인 필요). 8세기 논리학 요약본의 번역자(이븐 알무카파 부자)는 학계에서도 논쟁 중이에요.

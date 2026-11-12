@@ -22,10 +22,10 @@
 글라우콘의 말을 정리하면 이래요(358e~362c).
 
 1. 올바름은 약한 사람들이 서로 해치지 말자고 맺은 타협에서 생겼어요.
-2. 사람들은 벌과 나쁜 평판이 무서워서 올바르게 행동해요. 반지가 그 증거예요.
+2. 사람들은 벌과 나쁜 평판이 무서워서 올바르게 행동해요. 반지 이야기는 이 생각을 시험해 보려는 생각 실험이에요. "들킬 걱정이 없다면 어떻게 할까?"를 상상하게 하는 거예요.
 3. 그러니 겉으로는 올바른 척하면서 몰래 이익을 챙기는 사람이 가장 행복해요.
 
-중요한 점이 있어요. 글라우콘 자신은 이 주장을 믿지 않아요. 소크라테스가 더 나은 답을 내놓게 하려고 일부러 가장 센 반론을 세운 거예요. 그래서 그는 "보상과 평판은 빼고, 올바름 그 자체가 왜 좋은지 보여 달라"고 요구해요(367b 무렵).
+중요한 점이 있어요. 글라우콘 자신은 이 주장을 믿지 않아요. 소크라테스가 더 나은 답을 내놓게 하려고 일부러 가장 센 반론을 세운 거예요. 그래서 그는 "보상과 결과는 빼고, 올바름이 그 자체로 마음 안에서 어떤 힘을 갖는지 듣고 싶다"고 요구해요(358b~d). 글라우콘의 형 아데이만토스도 이어서 말을 보태요. 그는 평판을 떼어 내고 올바름이 그것을 가진 사람에게 무엇을 해 주는지 보여 달라고 다시 한번 요구해요(367b~e).
 
 ## 소크라테스의 대답과 남는 물음
 
@@ -61,11 +61,11 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 플라톤, 『국가』 2권 357b~d (좋은 것의 세 종류), 358e~362c (글라우콘의 연설), 359c~360d (기게스 조상의 반지). 10권 612b (반지가 있든 없든 올바름이 영혼에 가장 좋다).
-    - <span class="src-tag">원전</span> Plato, *Republic*, trans. Paul Shorey, [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D2%3Asection%3D359d). 359d~360d와 612b를 열어 확인함. 헤로도토스 『역사』 1권 8~13장과의 차이, "기게스의 조상" 사본 문제는 Shorey의 주석에서 확인.
+    - <span class="src-tag">원전</span> Plato, *Republic*, trans. Paul Shorey, [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D2%3Asection%3D359d). 358b, 359d~360d, 367b, 612b를 열어 확인함. 367b의 화자가 아데이만토스라는 것도 여기서 확인. 헤로도토스 『역사』 1권 8~13장과의 차이, "기게스의 조상" 사본 문제는 Shorey의 주석에서 확인.
     - <span class="src-tag">해설</span> Antonis Coumoundouros, "[Plato: The Republic](https://iep.utm.edu/republic/)", *Internet Encyclopedia of Philosophy*. 2권 요약(357a~367b).
     - <span class="src-tag">해설</span> Dorothea Frede & Mi-Kyoung Lee, "[Plato's Ethics: An Overview](https://plato.stanford.edu/entries/plato-ethics/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 글라우콘·아데이만토스 형제가 일부러 반대편에 서서 주장한다는 점.
     - <span class="src-tag">해설</span> Eric Brown, "[Plato's Ethics and Politics in The Republic](https://plato.stanford.edu/entries/plato-ethics-politics/)", *Stanford Encyclopedia of Philosophy* (2017 개정). 마음의 올바름과 행동의 올바름 사이의 간극을 둘러싼 논의.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 글라우콘이 "올바름 그 자체"를 요구하는 정확한 쪽수(IEP는 367b로 적음). 『반지의 제왕』과의 관계. 사회계약론과의 연결은 일반적인 설명이고 이 페이지의 자료에서 직접 확인하지 못했어요.
+- **확인 필요:** 『반지의 제왕』과의 관계. 사회계약론과의 연결은 일반적인 설명이고 이 페이지의 자료에서 직접 확인하지 못했어요.

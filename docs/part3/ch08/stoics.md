@@ -34,11 +34,11 @@
 이 생각에 반대한 사람이 많았어요. 아리스토텔레스를 따르던 사람들은 "덕은 행복에 꼭 필요하지만, 병들고 가난하고 외로운 사람이 덕만으로 충분히 행복하다는 건 무리"라고 봤어요(4장에서 다뤄요). 또 "건강이 좋지도 나쁘지도 않다면서 왜 건강을 챙기라고 하느냐"는 비판도 있었어요. 스토아는 건강 같은 것은 "고를 만한 것"이라고 답했지만, 이 답이 앞뒤가 맞는지는 지금도 학자들이 따지고 있어요.
 
 !!! tip "10살 눈높이 한 줄 요약"
-    비가 오는 건 못 바꿔도, 비 오는 날 내 기분을 어떻게 할지는 내가 고를 수 있어요.
+    비가 오는 건 못 바꾸고, 처음 드는 속상한 느낌도 막기 어려워요. 하지만 그 일을 어떻게 판단하고 어떻게 대할지는 내가 고를 수 있어요.
 
 !!! note "★ 한 걸음 더 (심화)"
     - **프로하이레시스(prohairesis):** 에픽테토스가 아낀 말로, '고르는 힘'쯤 돼요. 그는 이 힘이야말로 진짜 '나'이고, 본래 아무도 막을 수 없다고 봤어요.
-    - **크리시포스의 원통:** 원통과 원뿔을 똑같이 밀어도 원통은 굴러가고 원뿔은 맴돌아요. 밀린 건 바깥 탓이지만 어떻게 움직이는지는 제 모양 탓이라는 거예요. 모든 일이 정해져 있어도 책임은 내게 있다는 것을 보이려는 비유였어요.
+    - **크리시포스의 원통:** 로마의 키케로가 『운명론』에서 전하는 비유예요. 원통과 원뿔을 똑같이 밀어도 원통은 굴러가고 원뿔은 맴돌아요. 밀린 건 바깥 탓이지만 어떻게 움직이는지는 제 모양 탓이라는 거예요. 사람에게 '미는 것'은 바깥에서 들어오는 인상이고, '제 모양'은 그 인상에 동의할지 말지 정하는 내 판단이에요. 모든 일이 정해져 있어도 책임은 내게 있다는 것을 보이려는 비유였어요. 다만 원통은 스스로 따져 보지 않으니, 이 비유는 사람이 생각하고 고르는 과정까지는 보여 주지 못해요.
     - **견유학파와의 관계:** 제논은 견유학파 크라테스에게 배웠어요. 가진 것 없이도 자유로울 수 있다는 생각이 [디오게네스](diogenes.md)에게서 스토아로 이어져요.
 
 ## 오늘 내 삶에 던져 볼 질문
@@ -59,10 +59,12 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 에픽테토스, 『엥케이리디온』 1장, 5장. 영어 번역(Higginson 옮김, Project Gutenberg)으로 내용을 확인했어요.
+    - <span class="src-tag">원전</span> 키케로, 『운명론』(De Fato) 39~43절 (크리시포스의 원통 비유를 전함). 위치는 아래 SEP 「Ancient Theories of Freedom and Determinism」에 적힌 것을 따랐어요.
     - <span class="src-tag">해설</span> Marion Durand, Simon Shogry, Dirk Baltzly, "[Stoicism](https://plato.stanford.edu/entries/stoicism/)", *Stanford Encyclopedia of Philosophy* (2023). 학교의 시작, 삶의 목표, 아디아포라와 그 비판, 원통 비유, 좋은 감정을 여기서 확인했어요.
     - <span class="src-tag">해설</span> Margaret Graver, "[Epictetus](https://plato.stanford.edu/entries/epictetus/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 생애와 『엥케이리디온』이 『담화록』의 요약이라는 점을 확인했어요.
+    - <span class="src-tag">해설</span> Tim O'Keefe, "[Ancient Theories of Freedom and Determinism](https://plato.stanford.edu/entries/freedom-ancient/)", *Stanford Encyclopedia of Philosophy*. 원통 비유에서 '미는 것'이 인상, '모양'이 사람의 됨됨이와 판단에 대응한다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Julie Piering, "[Cynics](https://iep.utm.edu/cynics/)", *Internet Encyclopedia of Philosophy*. '스토아'라는 이름이 기둥 복도에서 왔다는 점을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 평온을 비는 기도의 출처와 연도는 확인하지 못했어요. 에픽테토스가 로마에서 쫓겨난 해는 SEP 두 항목이 89년과 93년으로 달라 본문에 적지 않았어요.

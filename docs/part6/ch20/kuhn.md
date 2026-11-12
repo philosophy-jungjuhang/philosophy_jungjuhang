@@ -28,7 +28,7 @@
 
 정상 과학(normal science)의 과학자는 퍼즐을 푸는 사람과 비슷해요. 예를 들어 직소 퍼즐을 맞출 때는 그림이 맞는지 의심하지 않고 조각을 끼우지요. 안 맞는 조각이 나오면 "내가 잘못 끼웠나" 하고 먼저 생각해요. 다만 이 비유는 퍼즐에는 정답 그림이 미리 있지만 과학에는 그런 상자 뚜껑이 없다는 점까지는 보여 주지 못해요.
 
-이 부분에서 쿤은 [포퍼](popper.md)와 갈려요. 포퍼는 과학자가 늘 자기 이론을 반증하려 해야 한다고 봤어요. 쿤은 평소의 과학자들은 이론을 시험하지 않고, 어긋나는 결과가 나와도 곧바로 이론이 틀렸다고 여기지 않는다고 봤어요. 그런 결과가 쌓여 위기가 와야 비로소 혁명이 일어난다는 거예요.
+이 부분에서 쿤은 [포퍼](popper.md)와 갈려요. 포퍼는 좋은 과학이라면 이론을 비판과 반증의 시험에 내놓아야 한다고 봤어요. "과학은 어떻게 해야 하나"에 대한 생각이에요. 쿤은 "과학자들이 실제로 어떻게 일하나"를 보았어요. 평소의 과학자들은 패러다임 자체를 시험하지 않고, 어긋나는 결과가 나와도 곧바로 이론이 틀렸다고 여기지 않는다는 거예요. 포퍼도 1965년 쿤과의 토론을 담은 글(「정상 과학과 그 위험」, 1970년 출판)에서 쿤이 말한 정상 과학이 실제로 있다는 건 인정했어요. 다만 그것을 과학에 위험한 일로 봤지요. 그리고 쿤의 책에서는 이상 현상이 쌓여 위기가 오고, 위기 끝에 혁명이 일어나는 것이 흔한 순서예요. 쿤은 1969년 후기에서 위기가 혁명 앞에 꼭 와야 하는 조건은 아니고, 대개 앞서 오는 단계일 뿐이라고 고쳐 말했어요.
 
 ## 같은 것을 다르게 본다
 
@@ -67,9 +67,11 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 쿤, 『과학 혁명의 구조』(1962, 2판 1970). SEP 인용 기준 쪽수: 정상 과학과 퍼즐 풀기 35~42쪽, 패러다임의 예 23쪽, 라부아지에와 프리스틀리 118쪽, 진보와 진화의 비유 170~173쪽, 2판 후기 187쪽.
-    - <span class="src-tag">원전</span> 쿤, "Objectivity, Value Judgment, and Theory Choice"(1977, 『본질적 긴장』 수록) 321~322쪽(이론 선택의 다섯 기준, SEP 인용 기준).
+    - <span class="src-tag">원전</span> 쿤, 『과학 혁명의 구조』 2판 후기(1969년 씀) 1절 끝(위기는 혁명의 필수 조건이 아니라 대개 앞서 오는 단계). [Internet Archive 스캔 본문](https://archive.org/details/thomas-s.-kuhn-the-structure-of-scientific-revolutions)에서 대조했어요.
+    - <span class="src-tag">원전</span> 쿤, "Objectivity, Value Judgment, and Theory Choice"(1977) 321~322쪽(이론 선택의 다섯 기준, SEP 인용 기준). 수록집은 『본질적 긴장』(*The Essential Tension*, University of Chicago Press, 1977) 13장이에요([시카고대 출판부 목차](https://press.uchicago.edu/ucp/books/book/chicago/E/bo5970650.html)에서 확인).
+    - <span class="src-tag">원전</span> 포퍼, "Normal Science and its Dangers", Lakatos & Musgrave 엮음, 『비판과 지식의 성장』(*Criticism and the Growth of Knowledge*, 1970). 정상 과학이 있다는 인정과 그것을 위험으로 보는 대목을 [Internet Archive 스캔 본문](https://archive.org/details/imre-lakatos-alan-musgrave-criticism-and-the-growth-of-knowledge)에서 대조했어요.
     - <span class="src-tag">해설</span> Alexander Bird, "[Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 생애, 아리스토텔레스 경험, 정상 과학·위기·혁명, 공약 불가능성, 비판과 쿤의 대답을 여기서 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 오리·토끼 그림을 쿤이 『과학 혁명의 구조』에서 직접 언급한 쪽수는 확인하지 못했어요(SEP는 쿤이 "게슈탈트 그림"의 변화에 빗댔다고만 적어요). 1977년 논문의 실린 책 제목은 원자료로 확인 필요.
+- **확인 필요:** 오리·토끼 그림을 쿤이 『과학 혁명의 구조』에서 직접 언급한 쪽수는 확인하지 못했어요(SEP는 쿤이 "게슈탈트 그림"의 변화에 빗댔다고만 적어요).

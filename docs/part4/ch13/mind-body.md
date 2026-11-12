@@ -29,13 +29,13 @@
 
 ## 공주의 질문
 
-가장 날카로운 질문은 보헤미아의 엘리자베트 공주(Elisabeth of Bohemia)가 던졌어요. 1640년대에 데카르트와 주고받은 편지에서 그녀는 물었어요. 공간을 차지하지 않는 마음이, 공간 속에 있는 몸을 어떻게 밀고 당길 수 있나요? 데카르트는 공주에게 자기도 만족스러운 답이 없다는 뜻을 비쳤어요.
+가장 날카로운 질문은 보헤미아의 엘리자베트 공주(Elisabeth of Bohemia)가 던졌어요. 1643년 5월 6일, 그녀는 데카르트에게 먼저 편지를 보내 물었어요. 공간을 차지하지 않는 마음이, 공간 속에 있는 몸을 어떻게 밀고 당길 수 있나요? 두 사람의 편지는 데카르트가 세상을 떠난 1650년까지 이어졌어요. 데카르트는 공주에게 자기도 만족스러운 답이 없다는 뜻을 비쳤어요.
 
 뒤 사람들은 이 질문에 저마다 다르게 답했어요.
 
 - **기회원인론:** 마음과 몸은 서로 직접 영향을 주지 않고, 그때그때 신이 맞춰 준다(말브랑슈 등).
-- **[스피노자](spinoza.md):** 마음과 몸은 두 실체가 아니라 하나의 실체를 두 방향에서 본 것이다.
-- **[라이프니츠](leibniz.md):** 신이 처음부터 두 시계추를 완벽하게 맞춰 놓아서, 서로 건드리지 않아도 박자가 맞는다(예정 조화).
+- **[스피노자](spinoza.md):** 한 사람의 마음과 몸은 두 실체가 아니라, 같은 한 사람을 생각과 연장이라는 두 방향에서 본 것이다. 이 사람 자체도 하나뿐인 실체(신 또는 자연)가 드러난 한 모습(양태)이다.
+- **[라이프니츠](leibniz.md):** 신이 처음부터 두 시계를 완벽하게 맞춰 놓아서, 서로 건드리지 않아도 늘 같은 시각을 가리킨다(예정 조화).
 - **[버클리](../ch14/berkeley.md):** 아예 물질은 없고 마음과 관념만 있다.
 
 20세기 중반 이후에는 마음이 결국 뇌의 활동이라는 물리주의가 철학계에서 우세해졌어요. 그래도 이원론을 고쳐서 지키려는 철학자도 여전히 있어요. 이 다툼은 7부의 [마음은 뇌일까](../../part7/ch23/q-mind.md)에서 다시 다뤄요.
@@ -66,11 +66,12 @@
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 데카르트, 『방법서설』 4부(AT 6:32~33), 『성찰』 제2성찰(AT 7:27), 제6성찰(AT 7:78).
-    - <span class="src-tag">원전</span> 데카르트가 엘리자베트에게 보낸 편지(AT 3:694).
+    - <span class="src-tag">원전</span> 엘리자베트가 데카르트에게 보낸 첫 편지(1643년 5월 6일)와 데카르트의 답장들, 데카르트가 엘리자베트에게 보낸 편지(AT 3:694). 편지 날짜는 Jonathan Bennett 편 영어판 「[Correspondence between Descartes and Princess Elisabeth](https://www.earlymoderntexts.com/assets/pdfs/descartes1643_1.pdf)」(Early Modern Texts) 목차에서 확인했어요.
+    - <span class="src-tag">해설</span> Lisa Shapiro, "[Elisabeth, Princess of Bohemia](https://plato.stanford.edu/entries/elisabeth-bohemia/)", *Stanford Encyclopedia of Philosophy*. 편지가 1643년 공주의 질문으로 시작해 1650년 데카르트가 죽을 때까지 이어졌다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Gary Hatfield, "[René Descartes](https://plato.stanford.edu/entries/descartes/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 3.4절(마음과 몸의 관계)에서 위 위치, 배트맨 예, 엘리자베트의 질문, 기회원인론을 확인했어요.
     - <span class="src-tag">해설</span> Howard Robinson·Ralph Weir, "[Dualism](https://plato.stanford.edu/entries/dualism/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 라일의 비판, 20세기 물리주의의 흐름, 평행론을 확인했어요.
     - <span class="src-tag">해설</span> Brandon C. Look, "[Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/)", *Stanford Encyclopedia of Philosophy* (2013 개정). 4.4절 예정 조화와 송과선 언급을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 송과선이 마음과 몸이 만나는 자리라는 설명이 『정념론』의 어느 항에 나오는지 확인하지 못했어요(SEP 라이프니츠 항목은 제6성찰 AT 7:86~87을 가리켜요). 엘리자베트 공주의 생몰 연도는 SEP 「Dualism」에 오기(1596–1552)가 있어 싣지 않았어요. 편지를 주고받은 해(1643년부터)는 원자료로 확인하지 못해 "1640년대"로만 적었어요.
+- **확인 필요:** 송과선이 마음과 몸이 만나는 자리라는 설명이 『정념론』의 어느 항에 나오는지 확인하지 못했어요(SEP 라이프니츠 항목은 제6성찰 AT 7:86~87을 가리켜요). 엘리자베트 공주의 생몰 연도는 SEP 「Dualism」에 오기(1596–1552)가 있어 싣지 않았어요. 공주의 첫 편지(1643년 5월 6일)의 AT 쪽수(AT 3:661로 알려짐)는 직접 확인하지 못했어요.

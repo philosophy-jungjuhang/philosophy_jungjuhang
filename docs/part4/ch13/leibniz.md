@@ -39,7 +39,7 @@
 
 !!! note "★ 한 걸음 더 (심화)"
     - **단자(monad):** 라이프니츠는 세상의 참된 실체가 쪼갤 수 없는 마음 같은 단위, 단자라고 봤어요. 단자에는 "창문이 없어서" 서로 직접 영향을 주지 않아요.
-    - **예정 조화:** 그럼 마음과 몸은 어떻게 맞춰 움직일까요? 그는 신이 처음부터 두 시계추를 완벽하게 맞춰 놓았다는 비유를 들어요. 데카르트의 [마음과 몸 문제](mind-body.md)에 대한 그의 답이에요.
+    - **예정 조화:** 그럼 마음과 몸은 어떻게 맞춰 움직일까요? 그는 두 시계 비유를 들어요. 방 양쪽에 걸린 두 시계가 늘 같은 시각을 가리키는 건 한 시계가 다른 시계를 움직여서가 아니라, 처음부터 아주 정확하게 만들어지고 맞춰져서 따로 돌아가도 어긋나지 않기 때문이라는 거예요. 신이 마음과 몸을 그렇게 맞춰 두었다는 생각이에요. 다만 이 비유는 기계 장치의 그림이라, 마음까지 기계처럼 돌아간다는 뜻으로 받아들이면 안 된다고 해설가들은 덧붙여요. 데카르트의 [마음과 몸 문제](mind-body.md)에 대한 그의 답이에요.
     - **우주론적 논증:** 사슬 바깥의 필연적 존재를 찾는 논증은 아퀴나스의 논증과 닮았어요([아퀴나스](../../part3/ch09/aquinas.md)). 그래서 같은 반론들을 함께 받아요.
     - **합리론이라는 이름:** 라이프니츠는 흔히 '합리론자'로 묶이지만, SEP 해설은 이 교과서식 구분을 그대로 받아들이기 어렵다는 점도 지적해요.
 
@@ -64,9 +64,9 @@
     - <span class="src-tag">해설</span> Brandon C. Look, "[Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/)", *Stanford Encyclopedia of Philosophy* (2013 개정). 생몰 연도, 충족이유율, 미적분 다툼, 예정 조화, 최선의 세계 논증을 확인했어요.
     - <span class="src-tag">해설</span> Yitzhak Y. Melamed·Martin Lin, "[Principle of Sufficient Reason](https://plato.stanford.edu/entries/sufficient-reason/)", *Stanford Encyclopedia of Philosophy* (2023). 『단자론』 31~32절 인용, 흄과 칸트의 비판을 확인했어요.
     - <span class="src-tag">해설</span> Thomas Feeney, "[Leibniz on the Problem of Evil](https://plato.stanford.edu/entries/leibniz-evil/)", *Stanford Encyclopedia of Philosophy* (2026). 『캉디드』(1759)와 팡글로스를 확인했어요.
-    - <span class="src-tag">해설</span> Douglas Burnham, "[Leibniz: Metaphysics](https://iep.utm.edu/leib-met/)", *Internet Encyclopedia of Philosophy*. 필연적 존재 논증과 칸트식 반론을 확인했어요.
+    - <span class="src-tag">해설</span> Douglas Burnham, "[Leibniz: Metaphysics](https://iep.utm.edu/leib-met/)", *Internet Encyclopedia of Philosophy*. 필연적 존재 논증과 칸트식 반론, 예정 조화의 두 시계 비유와 그 비유를 너무 기계적으로 읽지 말라는 단서를 확인했어요.
     - <span class="src-tag">해설</span> Roy Sorensen, "[Nothingness](https://plato.stanford.edu/entries/nothingness/)", *Stanford Encyclopedia of Philosophy* (2022). 이 질문이 세계의 기원(시작) 문제와 다르다는 논의를 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 『자연과 은총의 원리』 7절의 원문 문장은 직접 보지 못하고 1909년판 주석의 설명에 기댔어요. 『변신론』의 '모자이크' 비유는 SEP 해설의 요약이며 원전 위치는 확인하지 못했어요.
+- **확인 필요:** 두 시계 비유가 나오는 1696년 「새로운 체계에 대한 해명」 원문은 직접 보지 못하고 IEP 설명에 기댔어요. 『자연과 은총의 원리』 7절의 원문 문장은 직접 보지 못하고 1909년판 주석의 설명에 기댔어요. 『변신론』의 '모자이크' 비유는 SEP 해설의 요약이며 원전 위치는 확인하지 못했어요.

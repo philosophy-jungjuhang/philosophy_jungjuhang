@@ -73,11 +73,11 @@
 ## 출처와 기준
 
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
-    - <span class="src-tag">원전</span> 『하타타 제라 야콥』(게에즈어, 1668년 무렵으로 전해짐). 영어 번역: Ralph Lee, Mehari Worku, Wendy Laura Belcher, *The Hatata Inquiries* (2023). 번역본을 직접 보지 못했고, 장 위치(3장 첫 원인, 5장 노예제, 6장 평등)는 아래 위키백과에 따랐어요. 위치 확인 필요.
+    - <span class="src-tag">원전</span> 『하타타 제라 야콥』(게에즈어, 1668년 무렵으로 전해짐). 영어 번역: Ralph Lee 번역·편집, Mehari Worku, Wendy Laura Belcher, Jeremy R. Brown 참여, *The Hatata Inquiries* (De Gruyter, 2023). 번역·편집자 표기는 [Belcher의 책 소개 페이지](https://wendybelcher.com/african-literature/hatata/)에서 확인했어요. 이 번역의 「Translation of the Hatata Zara Yaqob」 장(공개된 [PDF](https://fs.wp.odu.edu/dwittkow/wp-content/uploads/sites/6119/2024/03/616293.pdf))을 열어 보니, 창조주가 있는지 묻는 대목은 6장, 사람을 사고파는 것을 비판하는 대목은 9장, 모든 사람이 신 앞에서 평등하다는 대목은 11장이에요. 위키백과 등이 쓰는 3장·5장·6장은 게에즈어 사본의 옛 장 번호이고, 이 번역은 그 번호를 여백에 'Chap 3', 'Chap 5', 'Chap 6'으로 함께 적어 두었어요.
     - <span class="src-tag">해설</span> Peter Adamson, Chike Jeffers, "[In You I Take Shelter: Zera Yacob](https://www.historyofphilosophy.net/podcast/africana/precolonial-africa/zera-yacob)", *History of Philosophy without any gaps* (2018), 그리고 같은 시리즈 "[Think for Yourself: Walda Heywat](https://www.historyofphilosophy.net/podcast/africana/precolonial-africa/walda-heywat)" (2018)의 참고 문헌 목록과 2023년 12월 애덤슨의 댓글(진위 논쟁 현황). 열어서 확인함.
     - <span class="src-tag">해설</span> Lucius T. Outlaw Jr., "[Africana Philosophy](https://plato.stanford.edu/entries/africana/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 17세기 에티오피아 철학자로 제라 야콥과 왈다 헤이와트를 언급한 대목을 확인했어요.
     - <span class="src-tag">해설</span> "[Zera Yacob (philosopher)](https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher))", 영어 위키백과. 생애 줄거리, 위작설 연표(콘티 로시니 1920, 미트보흐 1934, 섬너 1976)를 대조용으로 봤어요. 위키백과는 1차 기준 자료가 아니라서 SEP·IEP 항목이 없는 부분만 보조로 썼어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** SEP·IEP에 제라 야콥 단독 항목이 없어(2026-11-11 확인) 생애와 장 위치를 SEP·IEP로 대조하지 못했어요. 『하타타』 장 번호. 1600년 출생 연도(책 안의 기록). "조화"를 기준으로 한 윤리 해석의 출처. 키로스의 해석 내용(애덤슨 팟캐스트 11화 제목으로만 확인).
+- **확인 필요:** SEP·IEP에 제라 야콥 단독 항목이 없어(2026-11-11 확인) 생애를 SEP·IEP로 대조하지 못했어요. 1600년 출생 연도(책 안의 기록). "조화"를 기준으로 한 윤리 해석의 출처. 키로스의 해석 내용(애덤슨 팟캐스트 11화 제목으로만 확인).
