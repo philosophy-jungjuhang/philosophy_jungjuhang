@@ -16,7 +16,7 @@
 | 입장 | 대표 인물 | 핵심 근거 | 대표 반론 |
 |---|---|---|---|
 | 개념에서 출발(존재론적 논증) | 안셀무스(11세기) | "그보다 더 큰 것을 생각할 수 없는 존재"가 생각 속에만 있다면, 실제로도 있는 더 큰 것을 생각할 수 있으니 모순이다 | 가우닐로: 같은 방식이면 "가장 완벽한 섬"도 있어야 한다. 칸트: "있다"는 개념에 덧붙는 성질이 아니다 |
-| 세상이 있다는 사실에서 출발(우주론적 논증) | 아리스토텔레스, 이븐 시나, 가잘리, 아퀴나스, 인도 니야야 학파의 우다야나 | 모든 것에는 원인이 있다. 원인을 끝없이 거슬러 갈 수는 없으니, 다른 것에 기대지 않는 첫 원인이 있다 | 흄·칸트: 왜 끝없이 거슬러 가면 안 되나? 첫 원인이 있다 해도 그게 왜 신인가? |
+| 세상이 있다는 사실에서 출발(우주론적 논증) | 아리스토텔레스, 이븐 시나, 가잘리, 아퀴나스, 인도 니야야 학파의 우다야나 | "모든 것"이 아니라 특정한 것에 원인이 필요하다고 봐요. 움직이는 것(아리스토텔레스), 있을 수도 없을 수도 있는 것(이븐 시나·아퀴나스), 시작이 있는 것(가잘리), 생겨났다 사라지는 것(우다야나)이에요. 그 원인을 끝없이 거슬러 갈 수는 없으니, 그런 조건에 들지 않아 다른 원인이 필요 없는 첫 원인(움직이지 않는 원동자, 반드시 있는 존재, 시작 없는 창조자)이 있다 | 흄·칸트: 왜 끝없이 거슬러 가면 안 되나? 첫 원인이 있다 해도 그게 왜 신인가? 그런 첫 원인만 예외가 되는 이유는 무엇인가? |
 | 세상의 질서에서 출발(설계 논증) | 페일리 | 길에서 시계를 주우면 만든 이가 있다고 여기듯, 정교한 자연에도 설계자가 있다 | 흄: 세상은 시계보다 생물에 더 닮았다. 설계자가 있어도 하나인지, 완전한지는 알 수 없다 |
 | 세상의 고통에서 출발(악의 문제, 반대 논증) | 고대부터 여러 사람, 근대의 흄 | 전능하고 완전히 선한 신이 있다면 왜 이렇게 큰 고통이 있나 | 자유의지 설명: 자유로운 존재를 만든 대가다. 영혼을 기르는 설명: 고난 속에서 사람이 자란다 |
 
@@ -58,10 +58,10 @@
     - <span class="src-tag">원전</span> 아리스토텔레스, 『자연학』 8권 4~6장, 『형이상학』 12권 1~6장. 아퀴나스, 『신학대전』 1부 2문 3절. 우다야나, 『니야야쿠수만잘리』 1.4.
     - <span class="src-tag">원전</span> 흄, 『자연 종교에 관한 대화』(1779). 페일리, 『자연 신학』(시계 비유).
     - <span class="src-tag">해설</span> Graham Oppy 외, "[Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 가우닐로·칸트의 비판, 러셀의 말을 여기서 확인했어요.
-    - <span class="src-tag">해설</span> Bruce Reichenbach, "[Cosmological Argument](https://plato.stanford.edu/entries/cosmological-argument/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 이븐 시나·가잘리·아퀴나스·우다야나, 원전 위치, 흄·칸트의 비판을 확인했어요.
+    - <span class="src-tag">해설</span> Bruce Reichenbach, "[Cosmological Argument](https://plato.stanford.edu/entries/cosmological-argument/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 이븐 시나·가잘리·아퀴나스·우다야나, 각 논증에서 원인이 필요한 대상(우연적인 것, 시작이 있는 것, 생겨나는 부분), 원전 위치, 흄·칸트의 비판을 확인했어요.
     - <span class="src-tag">해설</span> Del Ratzsch & Jeffrey Koperski, "[Teleological Arguments for God's Existence](https://plato.stanford.edu/entries/teleological-arguments/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 페일리의 시계, 흄의 반론을 확인했어요.
     - <span class="src-tag">해설</span> Michael Tooley, "[The Problem of Evil](https://plato.stanford.edu/entries/evil/)", *Stanford Encyclopedia of Philosophy* (2015 개정). 논리적·증거적 형태, 영혼을 기르는 설명과 자유의지 설명을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 칸트의 "도덕적 신앙"(실천 이성의 요청)은 이번에 SEP에서 직접 대조하지 못했어요. 흄이 『대화』에서 신을 믿는 쪽 인물(클레안테스)에게 설득력 있는 목소리를 줬다는 평가는 해석이에요. 악의 문제를 처음 낸 사람을 에피쿠로스로 소개하는 경우가 많지만 출처가 분명하지 않아 이름을 쓰지 않았어요.

@@ -9,7 +9,7 @@
 
 ## 감옥의 역사를 쓴 철학자
 
-미셸 푸코(Michel Foucault, 1926~1984)는 프랑스 푸아티에에서 태어난 역사가이자 철학자예요. 1969년부터 명망 높은 학술 기관인 콜레주 드 프랑스에서 "사상 체계의 역사"를 가르쳤어요. 1970년대에는 감옥 수감자들의 목소리를 알리는 모임을 만드는 등 사회 운동에도 나섰어요.
+미셸 푸코(Michel Foucault, 1926~1984)는 프랑스 푸아티에에서 태어난 역사가이자 철학자예요. 명망 높은 학술 기관인 콜레주 드 프랑스에 1969년 11월 "사상 체계의 역사" 강좌가 새로 생겼고, 푸코는 1970년 이 강좌의 교수로 뽑혀 1984년 세상을 떠날 때까지 가르쳤어요. 1970년대에는 감옥 수감자들의 목소리를 알리는 모임을 만드는 등 사회 운동에도 나섰어요.
 
 푸코는 1975년 『감시와 처벌: 감옥의 탄생』을 펴냈어요. 이 책은 하나의 물음에서 시작해요. 옛날에는 죄인을 사람들 앞에서 고문하고 처형했는데, 근대에 와서는 왜 감옥에 가두는 것이 형벌의 기본이 되었을까요? 흔히 "사람들이 더 인도적이 되어서"라고 답하지요. 푸코는 개혁에 진짜 계몽된 면이 있다는 것을 인정하면서도, 그 개혁이 더 효과적인 통제의 수단이 되었다고 봤어요. 덜 벌하는 대신 더 잘 벌하게 된 것일 수 있다는 거예요.
 
@@ -68,7 +68,8 @@
     - <span class="src-tag">원전</span> 푸코, 『성의 역사』 1권 『앎의 의지』(1976). 영어판(1978) 96쪽(저항, SEP 인용 기준).
     - <span class="src-tag">해설</span> Gary Gutting & Johanna Oksala, "[Michel Foucault](https://plato.stanford.edu/entries/foucault/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 생애, 세 가지 기술, 권력/지식, 판옵티콘, 권력과 저항을 여기서 확인했어요.
     - <span class="src-tag">해설</span> Mark Kelly, "[Foucault, Michel](https://iep.utm.edu/foucault/)", *Internet Encyclopedia of Philosophy*. 판옵티콘이 책의 중심 주장이 아니라는 해석과 "순한 몸" 분석을 확인했어요.
+    - <span class="src-tag">해설</span> Collège de France, "[Michel Foucault: History of systems of thought](https://www.college-de-france.fr/en/chair/michel-foucault-history-of-systems-of-thought-statutory-chair)". 강좌 설치(1969년 11월), 선출(1970년 4월), 재직(1970~1984)을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 푸코에게 "규범적 기준이 없다"는 비판을 한 대표 학자로 하버마스, 낸시 프레이저가 흔히 꼽히지만 이 페이지에서는 원자료로 확인하지 못해 이름을 적지 않았어요. 『감시와 처벌』 첫머리의 공개 처형 장면(1757년 다미앵 처형으로 알려짐)은 확인하지 못해 본문에 넣지 않았어요.

@@ -385,7 +385,7 @@ parts:
         min: 5
         done: true
       - slug: hume-cause
-        title: '흄: 원인과 결과는 눈에 보이지 않는다'
+        title: '흄: 원인과 결과를 잇는 끈은 보이지 않는다'
         min: 5
         done: true
       - slug: hume-is-ought
