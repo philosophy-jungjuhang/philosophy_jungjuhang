@@ -20,6 +20,7 @@
 ## 진행 상황 (2026-11-12)
 - 주제 112 + 부록 4 = 116페이지 초안 완성. `mkdocs build --strict` 통과, 출처 링크 전부 열림 확인. 모든 페이지는 "초안, 저자 평가 대기"이고 페이지마다 "확인 필요" 항목이 남아 있다(주로 원전 쪽수 대조).
 - 배포: `.github/workflows/deploy.yml`이 작업 브랜치 푸시 때 빌드해 `gh-pages` 브랜치에 올린다. 저장소 Settings → Pages의 Source가 `gh-pages` / `(root)`여야 사이트가 보인다.
+- GPT 검수(2026-11-12): 지적 339건을 원전으로 확인해 반영·반려했다. 기록은 `reviews/2026-11-12-gpt-review*.md`. 외부 검수도 그대로 믿지 말고 근거를 열어 확인한 뒤 반영한다.
 - 이 세션의 GitHub 연결은 옛 주소 `sehoon3554-ctrl/philosophy_jungjuhang`(새 조직으로 자동 전달)으로 푸시한다.
 
 ## 철학이라서 지킬 것

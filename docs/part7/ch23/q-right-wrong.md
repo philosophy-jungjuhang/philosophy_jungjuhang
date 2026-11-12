@@ -9,7 +9,7 @@
 
 ## 거짓말 하나로 친구를 웃게 한다면
 
-친구가 정성껏 그린 그림을 보여 주며 "어때?" 하고 물어요. 솔직히 별로예요. 사실대로 말할까요, "멋지다"고 할까요?
+예를 들어 친구가 정성껏 그린 그림을 보여 주며 "어때?" 하고 물어요. 솔직히 별로예요. 사실대로 말할까요, "멋지다"고 할까요?
 
 이 작은 고민에도 세 가지 물음이 숨어 있어요. **어떻게 하면 결과가 가장 좋을까?** 친구 기분, 앞으로의 실력. **어떤 규칙을 지켜야 할까?** 거짓말하지 말 것. **어떤 사람이 되고 싶나?** 정직하면서도 다정한 사람. 철학자들은 이 셋 가운데 어디를 기준으로 삼느냐에 따라 길이 갈렸어요.
 
@@ -17,11 +17,11 @@
 
 | 입장 | 대표 인물 | 핵심 근거 | 대표 반론 |
 |---|---|---|---|
-| 결과가 정한다(결과주의, 공리주의) | 벤담, 밀, (앞선 모습으로) 묵자 | 모두를 똑같이 셈에 넣고, 행복을 가장 크게 하는 행동이 옳다 | 장기 이식 예: 건강한 한 사람을 희생해 다섯 명을 살리는 것도 옳은가? 권리와 정의를 놓친다 |
+| 결과가 정한다(결과주의) | 공리주의의 벤담·밀, (다른 모습의 결과주의로) 묵자 | 행동의 옳고 그름은 결과로 정해진다. 공리주의는 모두를 똑같이 셈에 넣고 행복을 가장 크게 하는 행동이 옳다고 본다. 묵자는 행복 대신 백성의 "이로움"(利: 넉넉한 살림, 많은 인구, 사회 질서)을 기준으로 삼았다 | 장기 이식 예: 건강한 한 사람을 희생해 다섯 명을 살리는 것도 옳은가? 권리와 정의를 놓친다 |
 | 의무가 정한다(의무론) | 칸트 | 누구나 따라도 되는 규칙인지 따져라. 사람을 결코 수단으로만 대하지 마라 | 두 의무가 부딪칠 때는? 결과가 아무리 나빠도 규칙만 지키면 되나? |
 | 사람됨이 정한다(덕 윤리) | 아리스토텔레스, 공자, 맹자 | 용기·정직·인(仁) 같은 품성을 갖춘 사람이 그 상황에서 할 행동이 옳다 | "덕 있는 사람처럼 하라"는 말로는 지금 무엇을 할지 알기 어렵다 |
 
-**결과주의**는 벤담과 밀이 다듬었어요([벤담 페이지](../../part5/ch18/bentham.md)). 그런데 그보다 2천 년쯤 앞서 중국의 묵자(기원전 470년 무렵~391년 무렵)와 그 제자들은 모두를 차별 없이 대하고, 이로움을 가장 크게 만드는 쪽을 따지는 윤리를 세웠어요. 학자들은 이것을 공리주의의 앞선 모습으로 보기도 해요([묵자 페이지](../../part2/ch06/mozi.md)).
+**결과주의**는 벤담과 밀이 다듬었어요([벤담 페이지](../../part5/ch18/bentham.md)). 그런데 그보다 2천 년쯤 앞서 중국의 묵자(기원전 470년 무렵~391년 무렵)와 그 제자들은 모두를 차별 없이 대하고, 이로움을 가장 크게 만드는 쪽을 따지는 윤리를 세웠어요. 학자들은 이것을 공리주의의 앞선 모습으로 보기도 해요. 다만 묵가가 키우려 한 것은 개인의 행복의 합이 아니라 살림, 인구, 질서 같은 여러 가지 공동의 이로움이었다는 점에서 벤담·밀과는 달라요([묵자 페이지](../../part2/ch06/mozi.md)).
 
 **의무론**의 대표 칸트는 『도덕 형이상학의 기초』에서 "내 행동의 규칙을 모두가 따라도 괜찮은가"를 시험해 보라고 했어요. 또 나 자신이든 남이든 사람을 늘 목적으로 대하고, 결코 수단으로만 대하지 말라고 했어요([칸트 페이지](../../part5/ch17/categorical-imperative.md)).
 
@@ -64,8 +64,8 @@
     - <span class="src-tag">해설</span> Julia Driver, "[The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 묵자(기원전 470년 무렵~391년 무렵)가 공리주의의 앞선 모습으로 여겨진다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Larry Alexander & Michael Moore, "[Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/)"; Robert Johnson & Adam Cureton, "[Kant's Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)", *Stanford Encyclopedia of Philosophy*. 의무 충돌 문제와 인간성 정식을 확인했어요.
     - <span class="src-tag">해설</span> Rosalind Hursthouse & Glen Pettigrove, "[Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 동서양의 뿌리, 행동 지침 반론과 그 답을 확인했어요.
-    - <span class="src-tag">해설</span> Chris Fraser, "[Mohism](https://plato.stanford.edu/entries/mohism/)", *Stanford Encyclopedia of Philosophy* (2024 개정).
+    - <span class="src-tag">해설</span> Chris Fraser, "[Mohism](https://plato.stanford.edu/entries/mohism/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 묵가의 "이로움"이 개인의 행복이 아니라 물질적 부, 많은 인구, 사회 질서라는 세 가지 좋음을 가리킨다는 점을 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 묵자를 결과주의로 분류하는 것은 학자들의 해석이에요(SEP "Mohism"도 결과주의로 소개). 각 원전의 정확한 위치(칸트 학술원판 쪽수 등)는 이 페이지에서 대조하지 않았어요.

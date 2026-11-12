@@ -29,7 +29,7 @@
 |---|---|---|---|
 | 기계도 어떤 조건이면 책임 주체가 될 수 있다 | 대니얼 데닛(1997), 설린스(2006) | 믿음과 바람을 가진 것처럼 설명되고, 스스로를 돌아볼 수 있는 고차원 시스템이면 책임을 물을 수 있다 | 기계에는 마음 상태, 감정, 공감이 없다. 벌을 받아도 뉘우칠 수 없다 |
 | 책임은 끝까지 사람에게 있다 | 기계를 도구로 보는 여러 학자 | 기계는 사람이 만든 도구이고, 의도는 만든 사람과 쓰는 사람에게 있다 | 기계가 복잡해져 누구도 통제하거나 예측하지 못하면 사람을 탓하기도 어렵다 |
-| "책임 공백"이 생긴다 | 마티아스(2004) | 스스로 배우는 기계의 행동은 만든 사람도 예측하지 못한다. 그러면 아무도 책임질 수 없는 빈틈이 생긴다 | 공백은 메울 수 있다. 쓰는 조건, 감독, 법으로 책임을 미리 정하면 된다 |
+| "책임 공백"이 생긴다 | 마티아스(2004) | 스스로 배우는 기계의 행동을 만든 사람도 쓰는 사람도 미리 내다보거나 통제하지 못하는 경우가 있다. 그런 경우에는 지금까지 책임을 묻던 방식으로는 누구에게도 책임을 묻기 어려운 빈틈이 생길 수 있다 | 공백은 메울 수 있다. 쓰는 조건, 감독, 법으로 책임을 미리 정하면 된다 |
 | 여러 손에 나눠진 책임을 다시 짜야 한다 | 니센바움(1994) 등 "여러 손의 문제" 논의 | 설계자, 회사, 시험한 사람, 쓴 사람이 조금씩 관여해 누구 한 명을 짚기 어렵다 | 나눠 맡았다고 책임이 사라지지는 않는다 |
 
 마지막 줄의 반론은 한나 아렌트의 생각과 이어져요([아렌트 페이지](../../part6/ch21/arendt.md)). 아렌트는 나치 전범 아이히만의 재판을 지켜본 뒤 "악의 평범성"이라는 말을 썼어요. 그런데 SEP에 따르면 아렌트는 아이히만이 거대한 기계의 톱니바퀴였을 뿐이라는 변명을 받아들이지 않았고, 그에게 자기 행동의 책임이 온전히 있다고 봤어요. 큰 체계 속의 한 사람이라도 생각하기를 멈출 수 없다는 거예요.
@@ -48,7 +48,7 @@
 ## 오늘 내 삶에 던져 볼 질문
 
 1. 내비게이션이 알려 준 길로 갔다가 사고가 났다면, 나는 얼마나 책임이 있을까요?
-2. 모둠 과제가 망쳤을 때 "나는 내 몫만 했어"라는 말은 언제 맞고 언제 틀릴까요?
+2. 모둠 과제를 망쳤을 때 "나는 내 몫만 했어"라는 말은 언제 맞고 언제 틀릴까요?
 
 ## 자주 하는 오해
 
@@ -67,9 +67,10 @@
     - <span class="src-tag">해설</span> Matthew Talbert, "[Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 아리스토텔레스 『니코마코스 윤리학』 3권의 책임 논의를 확인했어요.
     - <span class="src-tag">해설</span> Vincent C. Müller, "[Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)", *Stanford Encyclopedia of Philosophy* (2026 개정).
     - <span class="src-tag">해설</span> John-Stewart Gordon, "[Ethics of Artificial Intelligence](https://iep.utm.edu/ethics-of-artificial-intelligence/)", *Internet Encyclopedia of Philosophy*. 책임 공백, "의미 있는 사람의 통제", 기계의 도덕적 지위 논의를 확인했어요.
+    - <span class="src-tag">원전</span> 『앙굿따라 니까야』 6.63 「꿰뚫음 경」: "의도를 나는 업(행위)이라고 말한다"는 대목(Sujato 영역 33.3절, [SuttaCentral](https://suttacentral.net/an6.63/en/sujato)). 검수(2026-11-12)가 알려 준 위치를 원문으로 확인했어요.
     - <span class="src-tag">해설</span> Mark Siderits, "[Buddha](https://plato.stanford.edu/entries/buddha/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 행위는 의도를 뜻한다는 가르침과 앵무새 예를 확인했어요.
     - <span class="src-tag">해설</span> Tatjana Tömmel & Maurizio Passerin d'Entreves, "[Hannah Arendt](https://plato.stanford.edu/entries/arendt/)", *Stanford Encyclopedia of Philosophy* (2024 개정).
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** 아리스토텔레스의 "억지로 한 일, 모르고 한 일" 대목의 베커 쪽수(3권 1장으로 알려짐)는 대조하지 못했어요. SEP의 세 조건은 아리스토텔레스가 아니라 Eshleman·Jonas를 출처로 들어서, 둘을 잇는 것은 이 책의 정리예요. 붓다의 의도 가르침이 실린 경전 위치는 확인하지 못했어요. 앵무새 예는 SEP 설명에 나오는 예이고 경전 원문의 예인지는 확인 필요예요. "책임은 사람에게 있다" 입장의 대표 학자 이름은 특정하지 않았어요.
+- **확인 필요:** 아리스토텔레스의 "억지로 한 일, 모르고 한 일" 대목의 베커 쪽수(3권 1장으로 알려짐)는 대조하지 못했어요. SEP의 세 조건은 아리스토텔레스가 아니라 Eshleman·Jonas를 출처로 들어서, 둘을 잇는 것은 이 책의 정리예요. 앵무새 예는 SEP 설명에 나오는 예이고 경전 원문의 예인지는 확인 필요예요. "책임은 사람에게 있다" 입장의 대표 학자 이름은 특정하지 않았어요.

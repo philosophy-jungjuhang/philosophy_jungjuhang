@@ -112,7 +112,7 @@ parts:
         min: 5
         done: true
       - slug: four-causes
-        title: "'왜?'에 답하는 네 가지 방법: 네 원인"
+        title: '''왜?''에 답하는 네 가지 방법: 네 원인'
         min: 5
         done: true
       - slug: syllogism

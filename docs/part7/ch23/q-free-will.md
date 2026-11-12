@@ -36,7 +36,7 @@
     내 선택이 다 원인이 있어서 생긴 거라면, 그래도 '내가' 고른 걸까? 그렇다는 사람, 아니라는 사람, 그 질문 자체를 바꾸자는 사람이 있어요.
 
 !!! note "★ 한 걸음 더 (심화)"
-    - **"달리 할 수 있었다":** 양립 가능론자는 이 말을 "달리 원했다면 달리 했을 것"으로 풀어요. 비판자는 그럼 "달리 원할 수 있었나?"를 다시 묻는다고 맞서요.
+    - **"달리 할 수 있었다":** 고전적 양립 가능론자(홉스·흄 등)는 이 말을 "달리 원했다면 달리 했을 것"으로 풀어요. 비판자는 그럼 "달리 원할 수 있었나?"를 다시 묻는다고 맞서요. 한편 프랭크퍼트 같은 뒤의 양립 가능론자들은 아예 "달리 할 수 있었다"가 자유나 책임에 꼭 필요한 조건은 아니라고 봐요.
     - **결과 논증:** 결정론이 맞다면 내 행동은 태어나기 전의 일과 자연 법칙의 결과인데, 그 둘은 내 손에 있지 않으니 내 행동도 내 손에 있지 않다는 논증이에요. 오늘날 양립 불가능론의 대표 논증이에요.
     - **아우구스티누스:** 신이 모든 걸 미리 안다면 사람이 자유로울 수 있느냐는 물음과 씨름했어요. 그를 양립 불가능론자로 읽을지 양립 가능론자로 읽을지 학자들도 갈려요.
 
@@ -47,7 +47,7 @@
 
 ## 자주 하는 오해
 
-- **"결정론이 맞으면 노력해도 소용없다."** 결정론에서도 노력은 결과를 만드는 원인 중 하나예요. 노력하지 않으면 다른 결과가 나와요.
+- **"결정론이 맞으면 노력해도 소용없다."** 결정론에서도 노력은 결과를 만드는 원인 중 하나예요. 그래서 노력을 하느냐 마느냐가 결과에 영향을 줄 수 있어요. 다만 노력하면 언제나 결과가 바뀐다는 뜻은 아니에요.
 - **"과학 실험이 자유의지가 없다는 걸 증명했다."** 리벳의 실험을 두고는 해석이 크게 갈리고, 많은 비판이 나왔어요.
 - **"스토아는 운명에 체념하라고 했다."** 스토아는 내 판단과 선택은 내 몫이라고 봤어요. 체념보다 "내가 다룰 수 있는 것에 힘을 쓰라"는 쪽에 가까워요.
 
@@ -59,10 +59,10 @@
     - <span class="src-tag">원전</span> 홉스, 『리바이어던』. 흄, 『인간 지성 탐구』 8절(EHU 8). 스피노자, 『에티카』(1677). 칸트, 『순수이성비판』, 『도덕 형이상학의 기초』, 『실천이성비판』.
     - <span class="src-tag">원전</span> 『논어』 「자한」 9.26. 사르트르, 『존재와 무』(1943).
     - <span class="src-tag">해설</span> Timothy O'Connor & Christopher Franklin, "[Free Will](https://plato.stanford.edu/entries/freewill/)", *Stanford Encyclopedia of Philosophy* (2022 개정). 크리시포스, 아우구스티누스, 스피노자, 칸트·리드, 리벳 실험과 그 비판을 여기서 확인했어요.
-    - <span class="src-tag">해설</span> Michael McKenna & D. Justin Coates, "[Compatibilism](https://plato.stanford.edu/entries/compatibilism/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 홉스·흄의 고전적 양립 가능론과 조건 분석을 확인했어요.
+    - <span class="src-tag">해설</span> Michael McKenna & D. Justin Coates, "[Compatibilism](https://plato.stanford.edu/entries/compatibilism/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 홉스·흄의 고전적 양립 가능론과 조건 분석, 달리 할 수 있는 자유가 필요 없다고 보는 양립 가능론(Frankfurt 1969 등)을 확인했어요.
     - <span class="src-tag">해설</span> Matthew Talbert, "[Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 결과 논증을 확인했어요.
     - <span class="src-tag">해설</span> Hsueh Qu & Elizabeth S. Radcliffe, "[David Hume](https://plato.stanford.edu/entries/hume/)"; Jack Reynolds & Pierre-Jean Renaudie, "[Jean-Paul Sartre](https://plato.stanford.edu/entries/sartre/)"; David Wong, "[Mind (Heart-Mind) in Chinese Philosophy](https://plato.stanford.edu/entries/chinese-mind/)", *Stanford Encyclopedia of Philosophy*. 『논어』 9.26의 뜻(志)을 마지막 항목에서 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 스피노자의 "자유롭다는 느낌은 원인을 모르기 때문"이라는 설명은 『에티카』의 잘 알려진 대목이지만 이번에 위치를 대조하지 못했어요. 홉스 인용 위치(『리바이어던』 21장으로 알려짐)도 직접 확인하지 못했어요. 공자의 뜻(志)을 자유의지 논의와 잇는 것은 이 책의 설명이에요. 표의 사르트르 반론은 흔히 나오는 비판을 요약한 것으로, 특정 비판자의 글로 대조하지 못했어요.
