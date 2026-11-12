@@ -39,7 +39,7 @@
 
 !!! note "★ 한 걸음 더 (심화)"
     - **상호작용 문제:** 데카르트 이원론이 늘 받는 질문이에요. 공간도 없는 마음이 어떻게 팔을 움직이나요? 데카르트와 편지를 주고받은 보헤미아의 엘리자베트 공주가 이 문제를 날카롭게 물었어요.
-    - **물리주의(physicalism):** 세상의 모든 것이 결국 물리적인 것이라는 넓은 입장이에요. 동일론과 기능주의는 그 안의 서로 다른 갈래예요.
+    - **물리주의(physicalism):** 세상의 모든 것이 결국 물리적인 것이라는 넓은 입장이에요. 동일론은 그 안의 한 갈래예요. 기능주의는 사정이 조금 달라요. 마음을 "하는 역할"로 정할 뿐, 그 역할을 맡는 것이 꼭 물리적이어야 한다고 말하지는 않거든요. 그래서 기능주의는 원리상 물리주의와도, 일종의 이원론과도 함께 갈 수 있어요. 다만 그 역할을 맡는 것은 결국 뇌 같은 물리적인 것이라고 보는 물리주의자들이 기능주의를 많이 받아들였어요.
     - **중국어 방 논쟁:** "방 전체(사람+규칙책)는 이해한다"는 시스템 반론 등 수많은 반박과 재반박이 있어요. SEP는 이 논증을 최근 철학에서 가장 잘 알려진 논증 중 하나로 소개해요.
     - **살아 있는 철학자:** 네이글의 물음은 입장 소개로만 짧게 다뤘어요.
 
@@ -62,11 +62,11 @@
     - <span class="src-tag">원전</span> 데카르트, 『성찰』 여섯째 성찰. 이븐 시나, "허공에 뜬 사람" 사고실험(『영혼론』, 위치 확인 필요). 『맹자』 「고자 상」 6A15.
     - <span class="src-tag">원전</span> U. T. Place, "Is Consciousness a Brain Process?" (1956). John Searle, 중국어 방 논증(1980). Thomas Nagel, "What Is It Like to Be a Bat?" (1974).
     - <span class="src-tag">해설</span> Howard Robinson & Ralph Weir, "[Dualism](https://plato.stanford.edu/entries/dualism/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 이븐 시나의 사고실험이 데카르트의 앞선 모습으로 여겨진다는 점을 확인했어요.
-    - <span class="src-tag">해설</span> J. J. C. Smart, "[The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/)"; Janet Levin, "[Functionalism](https://plato.stanford.edu/entries/functionalism/)"; Daniel Stoljar, "[Physicalism](https://plato.stanford.edu/entries/physicalism/)", *Stanford Encyclopedia of Philosophy*.
+    - <span class="src-tag">해설</span> J. J. C. Smart, "[The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/)"; Janet Levin, "[Functionalism](https://plato.stanford.edu/entries/functionalism/)"(기능주의가 물리주의와 이원론 사이에서 원리상 중립이라는 점을 확인); Daniel Stoljar, "[Physicalism](https://plato.stanford.edu/entries/physicalism/)", *Stanford Encyclopedia of Philosophy*.
     - <span class="src-tag">해설</span> David Cole, "[The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 1980년 논문, 설의 생몰(1932~2025)을 확인했어요.
     - <span class="src-tag">해설</span> Robert Van Gulick, "[Consciousness](https://plato.stanford.edu/entries/consciousness/)", *Stanford Encyclopedia of Philosophy* (2014 개정). 네이글(1974)의 박쥐 예를 확인했어요.
     - <span class="src-tag">해설</span> David Wong, "[Mind (Heart-Mind) in Chinese Philosophy](https://plato.stanford.edu/entries/chinese-mind/)"; Christian Coseru, "[Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/)", *Stanford Encyclopedia of Philosophy*.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 이븐 시나 사고실험이 실린 책과 위치를 원전으로 대조하지 못했어요. 기능주의의 "시계" 예는 이해를 돕기 위해 지은 예예요.

@@ -9,7 +9,7 @@
 
 ## 사진 속 아기는 나일까
 
-앨범에서 아기 사진을 꺼내 보세요. 그 아기의 몸을 이루던 세포는 지금 거의 다 바뀌었어요. 말도 못 했고, 좋아하던 것도 달랐어요. 그런데도 우리는 "이건 나야"라고 말해요. 무엇이 그 아기와 지금의 나를 이어 줄까요?
+앨범에서 아기 사진을 꺼내 보세요. 그때와 지금은 키도 얼굴도 몸도 많이 달라졌어요. 말도 못 했고, 좋아하던 것도 달랐어요. 그런데도 우리는 "이건 나야"라고 말해요. 무엇이 그 아기와 지금의 나를 이어 줄까요?
 
 이 질문은 철학에서 **인격 동일성**(personal identity)이라고 불러요. 시간이 흘러도 같은 사람으로 남는다는 게 무슨 뜻인지 묻는 거예요. 동양과 서양에서 서로 다른 시대에 아주 비슷한 질문이 나왔어요.
 
@@ -30,7 +30,7 @@
 
 ## 서로에게 묻는 반론
 
-로크의 기억 이론에는 18세기 스코틀랜드의 토머스 리드가 유명한 반론을 냈어요. 리드가 든 예는 이래요. 한 소년이 남의 과수원 열매를 훔치다 학교에서 매를 맞았어요. 자라서 용감한 장교가 되어 전투에서 적의 깃발을 빼앗았고, 늙어서는 장군이 됐어요. 장교는 소년 시절을 기억하고, 장군은 장교 시절을 기억하지만 소년 시절은 잊었어요. 로크대로라면 장군은 장교와 같은 사람이고 장교는 소년과 같은 사람인데, 장군은 소년과 다른 사람이 돼요. 앞뒤가 안 맞지요.
+로크의 기억 이론에는 18세기 스코틀랜드의 토머스 리드가 유명한 반론을 냈어요. 리드가 든 예는 이래요. 한 소년이 남의 과수원 열매를 훔치다 학교에서 매를 맞았어요. 자라서 용감한 장교가 되어 전투에서 적의 깃발을 빼앗았고, 늙어서는 장군이 됐어요. 장교는 소년 시절을 기억하고, 장군은 장교 시절을 기억하지만 소년 시절은 잊었어요. 리드는 로크의 "의식"을 기억으로 읽었어요. 그렇게 읽으면 장군은 장교와 같은 사람이고 장교는 소년과 같은 사람인데, 장군은 소년과 다른 사람이 돼요. 앞뒤가 안 맞지요. 다만 로크가 말한 의식이 곧 기억인지, 그래서 리드의 반론이 로크에게 정말 들어맞는지는 지금도 논쟁거리예요.
 
 붓다와 흄은 닮아 보이지만 목적이 달라요. 흄은 마음을 관찰한 결과를 말했어요. 불교에서 무아는 "나"와 "내 것"에 매달리는 마음이 괴로움의 뿌리라는 가르침과 이어져요. 나를 붙잡지 않을 때 괴로움이 줄어든다는 실천의 이야기이기도 해요. 반대로 플라톤이나 데카르트처럼 몸과 다른 영혼이 나라고 보는 전통도 여전히 살아 있어요.
 
@@ -62,10 +62,10 @@
     - <span class="src-tag">원전</span> 『밀린다 왕의 물음』(수레 비유). 위치 확인 필요.
     - <span class="src-tag">원전</span> 로크, 『인간지성론』 2권 27장(왕자와 구두장이는 2.27.15). 흄, 『인간 본성에 관한 논고』 1.4.6. 리드, 『인간의 지적 능력에 관한 에세이』(1785, 용감한 장교).
     - <span class="src-tag">해설</span> Mark Siderits, "[Buddha](https://plato.stanford.edu/entries/buddha/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 오온, 무아, 수레 비유, 해석 차이를 여기서 확인했어요.
-    - <span class="src-tag">해설</span> Jessica Gordon-Roth, "[Locke on Personal Identity](https://plato.stanford.edu/entries/locke-personal-identity/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 왕자와 구두장이(2.27.15), 리드의 장교 반론을 확인했어요.
+    - <span class="src-tag">해설</span> Jessica Gordon-Roth, "[Locke on Personal Identity](https://plato.stanford.edu/entries/locke-personal-identity/)", *Stanford Encyclopedia of Philosophy* (2025 개정). 왕자와 구두장이(2.27.15), 리드의 장교 반론, 그리고 로크의 "의식"을 기억으로 읽어도 되는지에 대한 논쟁을 확인했어요.
     - <span class="src-tag">해설</span> Hsueh Qu & Elizabeth S. Radcliffe, "[David Hume](https://plato.stanford.edu/entries/hume/)", *Stanford Encyclopedia of Philosophy* (2026). 지각의 다발(T 1.4.6)을 확인했어요.
     - <span class="src-tag">해설</span> Eric T. Olson, "[Personal Identity](https://plato.stanford.edu/entries/identity-personal/)", *Stanford Encyclopedia of Philosophy* (2023 개정).
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
 - **확인 필요:** 수레 비유가 『밀린다 왕의 물음』 어느 대목인지 직접 대조하지 못했어요. SEP에서는 "밀린다 왕이 수레를 탔다"는 예와 수레 비유만 확인했고, 비유를 든 사람이 나가세나 스님이라는 점은 확인 필요예요.
