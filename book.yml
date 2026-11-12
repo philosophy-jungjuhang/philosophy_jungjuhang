@@ -28,7 +28,7 @@ parts:
         min: 5
         done: true
       - slug: heraclitus
-        title: '헤라클레이토스: 모든 것은 흐른다'
+        title: '헤라클레이토스: 같은 강에 두 번 들어갈 수 있을까'
         min: 5
         done: true
       - slug: parmenides
@@ -256,7 +256,7 @@ parts:
         min: 5
         done: true
       - slug: boethius
-        title: '보에티우스: 운명이 등을 돌릴 때'
+        title: '보에티우스: 운이 등을 돌릴 때'
         min: 5
         done: true
     - num: '9.2'
