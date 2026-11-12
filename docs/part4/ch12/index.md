@@ -1,6 +1,6 @@
 # 12장 새로운 시대
 
-교회와 옛 책 대신 사람과 경험을 보기 시작했어요.
+고대의 책을 새로 읽으며 정치와 앎을 있는 그대로 다시 보려 했어요.
 
 <div class="ep-list">
 <a href="machiavelli/"><span class="ep-no">12.1.1</span><span class="ep-title">마키아벨리: 정치는 있는 그대로 보자</span><span class="ep-time">읽기 5분</span></a>

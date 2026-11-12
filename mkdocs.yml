@@ -77,8 +77,8 @@ nav:
     - "4장 아리스토텔레스":
       - part1/ch04/index.md
       - "4.1 세상을 정리하는 법":
-        - "진짜는 사물 안에 있다": part1/ch04/aristotle-vs-plato.md
-        - "무엇이든 네 가지 '왜'로 설명한다": part1/ch04/four-causes.md
+        - "아리스토텔레스: 형상은 사물과 따로 있지 않다": part1/ch04/aristotle-vs-plato.md
+        - "'왜?'에 답하는 네 가지 방법: 네 원인": part1/ch04/four-causes.md
         - "생각에도 규칙이 있다: 삼단논법": part1/ch04/syllogism.md
       - "4.2 잘 사는 법":
         - "행복은 기분이 아니라 잘 사는 활동": part1/ch04/eudaimonia.md
@@ -183,7 +183,7 @@ nav:
         - "퇴계: 착한 마음은 어디서 나오는가, 사단칠정 논쟁": part4/ch16/toegye.md
         - "율곡: 이치는 하나, 기운은 여럿": part4/ch16/yulgok.md
         - "정약용: 착함은 행동으로 이루어진다": part4/ch16/dasan.md
-  - "V 19세기":
+  - "V 칸트에서 니체까지":
     - part5/index.md
     - "17장 칸트와 그 뒤":
       - part5/ch17/index.md
@@ -194,7 +194,7 @@ nav:
       - "17.2 칸트 다음":
         - "헤겔: 생각은 부딪히며 자란다": part5/ch17/hegel.md
         - "쇼펜하우어: 끝없이 바라는 마음": part5/ch17/schopenhauer.md
-    - "18장 가장 많은 사람의 행복":
+    - "18장 모두의 행복과 고통 따지기":
       - part5/ch18/index.md
       - "18.1 공리주의와 그 비판":
         - "벤담: 최대 다수의 최대 행복": part5/ch18/bentham.md

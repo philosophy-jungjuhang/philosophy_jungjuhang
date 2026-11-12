@@ -7,7 +7,7 @@
 | 낱말 | 원어 | 한 줄 뜻 | 자세히 |
 |---|---|---|---|
 | 겸애(兼愛) | 兼愛 | 내 가족과 남의 가족을 가리지 않고 두루 아끼라는 묵가의 가르침 | [묵자](../part2/ch06/mozi.md) |
-| 경험론 | empiricism | 모든 앎은 감각 경험에서 시작한다는 입장 | [로크](../part4/ch14/locke-blank-slate.md) |
+| 경험론 | empiricism | 생각의 재료(관념)가 경험, 곧 감각과 마음의 반성에서 온다고 보는 입장 | [로크](../part4/ch14/locke-blank-slate.md) |
 | 공(空) | śūnyatā | 모든 것은 다른 것에 기대어 있어서 홀로 서는 실체가 없다는 불교의 생각 | [나가르주나](../part2/ch07/nagarjuna.md) |
 | 공리주의 | utilitarianism | 행동의 옳고 그름을 그 결과가 가져오는 행복의 크기로 따지는 입장 | [벤담](../part5/ch18/bentham.md) |
 | 기(氣) | 氣 | 성리학에서 세상 만물을 이루는 기운, 재료 | [주희](../part4/ch16/zhuxi.md) |
@@ -22,7 +22,7 @@
 | 사회계약 | social contract | 사람들이 서로 약속해서 나라와 규칙을 세웠다고 보는 생각 | [홉스](../part4/ch15/hobbes.md) |
 | 삼단논법 | syllogism | 두 전제에서 결론을 끌어내는 아리스토텔레스의 추론 틀 | [삼단논법](../part1/ch04/syllogism.md) |
 | 성선설·성악설 | 性善·性惡 | 사람의 본성이 착하다(맹자), 가꾸어야 착해진다(순자)는 두 입장 | [맹자](../part2/ch05/mencius.md), [순자](../part2/ch05/xunzi.md) |
-| 실존주의 | existentialism | 사람은 정해진 본질 없이 태어나 스스로 선택하며 자기를 만든다는 생각 | [사르트르](../part6/ch21/sartre.md) |
+| 실존주의 | existentialism | 정해진 답 없이 선택하며 사는 개인의 삶을 묻는 흐름. 사르트르는 "실존이 본질에 앞선다"고 정리했어요 | [사르트르](../part6/ch21/sartre.md) |
 | 실학(實學) | 實學 | 조선 후기에 실제 삶과 사회에 쓸모 있는 학문을 강조한 흐름 | [정약용](../part4/ch16/dasan.md) |
 | 아타락시아 | ataraxia | 마음이 흔들리지 않는 평온, 헬레니즘 철학들이 바란 상태 | [에피쿠로스](../part3/ch08/epicurus.md) |
 | 아트만 | ātman | 우파니샤드에서 말하는 내 안의 참된 나 | [우파니샤드](../part2/ch07/upanishad-atman.md) |
@@ -43,4 +43,4 @@
 | 합리론 | rationalism | 감각보다 이성으로 확실한 앎에 닿을 수 있다는 입장 | [방법적 회의](../part4/ch13/methodic-doubt.md) |
 | 해악 원칙 | harm principle | 남을 해치지 않는 한 개인의 자유를 막아서는 안 된다는 밀의 원칙 | [밀](../part5/ch18/mill-harm.md) |
 | 화쟁(和諍) | 和諍 | 서로 다투는 주장들을 조화시킨다는 원효의 생각 | [원효](../part3/ch11/wonhyo.md) |
-| 회의주의 | skepticism | 확실히 알 수 있는지 의심하고 판단을 멈추는 태도 | [회의주의](../part3/ch08/skeptics.md) |
+| 회의주의 | skepticism | 우리가 무엇을 확실히 알 수 있는지 의심하는 태도. 판단을 멈추는 방법은 특히 피론주의의 것이에요 | [회의주의](../part3/ch08/skeptics.md) |

@@ -9,7 +9,7 @@
 
 ## "왜?"가 멈추지 않는 아이
 
-어린아이와 이런 대화를 해 본 적이 있을 거예요.
+어린아이와 이런 대화를 해 본 적이 있을 거예요. 예를 들어 볼게요.
 
 "학교는 왜 가?" "배우려고." "왜 배워?" "커서 일하려고." "일은 왜 해?" "행복하게 살려고." "행복이 뭔데?"
 
@@ -41,9 +41,9 @@
     철학은 "왜?"라고 물었을 때 어른들이 말문이 막히는 그 자리에서 한 번 더 묻는 일이에요.
 
 !!! note "★ 한 걸음 더 (심화)"
-    - **"왜?"를 끝없이 묻는 것의 함정:** 17세기 철학자 스피노자는 『윤리학』 1부 부록에서, 원인의 원인을 끝없이 캐묻다가 결국 "신의 뜻"이라는 말 뒤로 숨어 버리는 태도를 "무지의 피난처"라고 꼬집었어요. 끝까지 묻는 것과, 물음을 멈추게 하는 손쉬운 답에 기대는 것은 달라요(13장에서 스피노자를 다뤄요).
+    - **"왜?"를 끝없이 묻는 것의 함정:** 17세기 철학자 스피노자는 『윤리학』 1부 부록에서 이런 논법을 꼬집었어요. 지붕에서 돌이 떨어져 사람이 죽으면, 어떤 사람들은 "그 사람을 죽이려고 떨어졌다"고 미리 목적을 정해 놓아요. 그리고 상대가 바람이나 우연 같은 원인을 대면 "그럼 그건 왜?" 하고 원인의 원인을 계속 묻다가, 결국 "신의 뜻"이라는 말로 피해 버려요. 스피노자는 이 "신의 뜻"을 "무지의 피난처"라고 불렀어요. 원인을 끝까지 찾는 탐구가 잘못이라는 게 아니에요. 답을 미리 정해 놓고, 물음을 멈추게 하는 손쉬운 답에 기대는 것을 비판한 거예요(13장에서 스피노자를 다뤄요).
     - **공자의 "앎":** 『논어』 위정 편(2.17)에서 공자는 제자 자로에게, 아는 것은 안다고 하고 모르는 것은 모른다고 하는 것이 앎이라고 말해요. 2장에서 볼 소크라테스와 견주어 볼 만해요.
-    - **'철학(哲學)'이라는 번역어:** 일본에서 이 말을 만들 때 "현명한 사람"을 뜻하는 옛말 대신 "학문"을 뜻하는 학(學)을 골랐어요. 철학을 대학의 한 학문으로 받아들였다는 흔적이라고 읽는 학자도 있어요.
+    - **'철학(哲學)'이라는 번역어:** 일본에서 이 말을 만들 때 "현명한 사람"을 뜻하는 옛말 대신 "학문"을 뜻하는 학(學)을 골랐어요. SEP "Japanese Philosophy" 항목을 쓴 토머스 카술리스는, 학(學)이 당시 새로 세운 서양식 대학의 학과 이름(생물학, 지질학 같은)에 두루 붙던 글자였다는 점을 들어, 철학을 대학의 한 학문으로 받아들였다는 흔적으로 읽어요.
 
 ## 오늘 내 삶에 던져 볼 질문
 
@@ -55,7 +55,7 @@
 
 - **"철학은 어려운 말을 늘어놓는 학문이다."** 철학의 출발은 어린아이도 하는 "왜?"예요. 어려운 말은 그 질문을 정확하게 하려다 생긴 도구예요.
 - **"철학은 정답이 없으니 아무렇게나 말해도 된다."** 답이 하나로 정해지지 않을 뿐, 이유가 좋은 답과 나쁜 답은 가려요. 철학은 그 이유를 따지는 일이에요.
-- **"피타고라스가 '철학자'라는 말을 처음 만들었다."** 이런 이야기가 전해지지만 뒷날의 기록이고, 이 책에서는 원자료로 확인하지 못했어요.
+- **"피타고라스가 '철학자'라는 말을 처음 만들었다."** 3세기 무렵의 디오게네스 라에르티오스가 『유명한 철학자들의 생애』 1권 머리말(12절)에서 이 이야기를 전해요. 하지만 피타고라스보다 수백 년 뒤의 기록이라, 그가 정말 처음이었는지는 확인할 수 없어요.
 
 ---
 
@@ -64,14 +64,15 @@
 !!! quote "참고한 자료 (문장은 옮기지 않고 이해한 내용으로 다시 썼어요)"
     - <span class="src-tag">원전</span> 아리스토텔레스, 『형이상학』 1권 983b 무렵(첫 철학자들과 탈레스).
     - <span class="src-tag">원전</span> 『논어』 위정 편 2.17 (아는 것과 모르는 것).
-    - <span class="src-tag">원전</span> 스피노자, 『윤리학』 1부 부록 ("무지의 피난처").
+    - <span class="src-tag">원전</span> 스피노자, 『윤리학』 1부 부록 (떨어진 돌의 예와 "무지의 피난처"). Elwes 영역본([Spinoza Atlas](https://spinozaatlas.com/en/text/ethics.I.App))에서 해당 단락을 열어서 확인함.
+    - <span class="src-tag">원전</span> 디오게네스 라에르티오스, 『유명한 철학자들의 생애』 1권 머리말 12절 (피타고라스와 '철학자'라는 말). Hicks 영역본([LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Prologue%2A.html))을 열어서 확인함.
     - <span class="src-tag">해설</span> Patricia Curd, "[Presocratic Philosophy](https://plato.stanford.edu/entries/presocratics/)", *Stanford Encyclopedia of Philosophy* (2020 개정). 첫 철학자들이 철학자이자 과학자로 여겨졌다는 점을 확인했어요.
     - <span class="src-tag">해설</span> Patricia O’Grady, "[Thales of Miletus](https://iep.utm.edu/thales/)", *Internet Encyclopedia of Philosophy*. 『형이상학』 983b의 탈레스 대목 위치를 여기서 확인했어요.
     - <span class="src-tag">해설</span> C.C.W. Taylor · Mi-Kyoung Lee, "[The Sophists](https://plato.stanford.edu/entries/sophists/)", *Stanford Encyclopedia of Philosophy* (2025 개정). sophistēs가 sophia(지혜)에서 나왔다는 점을 확인했어요.
-    - <span class="src-tag">해설</span> Thomas Kasulis, "[Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 19세기 일본에서 tetsugaku(철학)라는 말을 새로 만든 과정을 확인했어요.
+    - <span class="src-tag">해설</span> Thomas Kasulis, "[Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)", *Stanford Encyclopedia of Philosophy* (2026 개정). 19세기 일본에서 tetsugaku(철학)라는 말을 새로 만든 과정과, 학(學)을 대학 학과 이름과 연결해 읽는 해석을 확인했어요.
     - <span class="src-tag">해설</span> Mark Csikszentmihalyi, "[Confucius](https://plato.stanford.edu/entries/confucius/)", *Stanford Encyclopedia of Philosophy* (2024 개정). 『논어』 2.17의 위치를 확인했어요.
     - <span class="src-tag">해설</span> Steven Nadler, "[Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/)", *Stanford Encyclopedia of Philosophy* (2023 개정). 『윤리학』 1부 부록의 위치를 확인했어요.
 
-- **기준 날짜:** 2026-11-11
+- **기준 날짜:** 2026-11-11 (검수 반영 2026-11-12)
 - **검토 상태:** 초안, 저자 평가 대기
-- **확인 필요:** "철학(哲學)"이라는 말을 만든 사람의 이름(니시 아마네로 알려짐)과 정확한 해는 원자료로 확인하지 못했어요. 피타고라스가 '철학자'라는 말을 처음 썼다는 이야기의 출처도 확인하지 못했어요. 『형이상학』 983b는 IEP 탈레스 항목의 인용으로 확인했고, 원문과 직접 대조하지는 않았어요.
+- **확인 필요:** "철학(哲學)"이라는 말을 만든 사람의 이름(니시 아마네로 알려짐)과 정확한 해는 원자료로 확인하지 못했어요. 피타고라스 이야기는 디오게네스 라에르티오스의 전승까지만 확인했고, 실제로 그랬는지는 확인할 수 없어요. 『형이상학』 983b는 IEP 탈레스 항목의 인용으로 확인했고, 원문과 직접 대조하지는 않았어요.

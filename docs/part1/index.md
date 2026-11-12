@@ -1,6 +1,6 @@
 # I 철학의 시작
 
-세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 그리스 사람들이 처음 던진 질문을 따라가요.
+세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 고대 그리스에서 철학이 시작될 때 던진 질문을 따라가요.
 
 <div class="ep-list">
 <a href="ch01/"><span class="ep-no">1장</span><span class="ep-title">철학은 무엇을 묻는가</span><span class="ep-time">7/7 작성</span></a>

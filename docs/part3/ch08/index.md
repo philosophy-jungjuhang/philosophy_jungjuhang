@@ -1,6 +1,6 @@
 # 8장 마음의 평화를 찾아서
 
-나라가 흔들리던 시대, 사람들은 개인의 행복을 물었어요.
+기원전 4세기 무렵부터 여러 학파가 흔들리지 않는 마음과 잘 사는 법을 저마다 다르게 물었어요.
 
 <div class="ep-list">
 <a href="epicurus/"><span class="ep-no">8.1.1</span><span class="ep-title">에피쿠로스: 작은 기쁨으로 사는 법</span><span class="ep-time">읽기 5분</span></a>

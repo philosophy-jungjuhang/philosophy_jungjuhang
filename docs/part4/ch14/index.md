@@ -1,6 +1,6 @@
 # 14장 경험에서 시작하기
 
-모든 앎은 보고 듣고 만지는 데서 온다고 봤어요.
+생각의 재료는 경험(감각, 그리고 마음이 자기 활동을 돌아보는 반성)에서 온다고 봤어요.
 
 <div class="ep-list">
 <a href="locke-blank-slate/"><span class="ep-no">14.1.1</span><span class="ep-title">로크: 우리는 빈 종이로 태어난다</span><span class="ep-time">읽기 5분</span></a>

@@ -2,7 +2,7 @@
 
 <p class="ep-meta"><span>부록</span><span>읽는 시간 약 4분</span><span>2026-11-11</span></p>
 
-이 책에 나오는 사람들을 같은 시간 줄에 놓아 봤어요. 같은 줄에 있는 사람들은 서로 몰랐지만 비슷한 때에 살았어요.
+이 책에 나오는 사람들을 대략 활동한 시기에 따라 같은 줄에 놓아 봤어요. 같은 줄에 있으면 비슷한 때에 활동했다는 뜻이에요. 서로 만난 사이도 있고(플라톤과 아리스토텔레스는 스승과 제자예요), 지역이 달라 서로 몰랐던 사이도 있어요.
 
 !!! note "연도 읽는 법"
     - 고대 인물은 정확한 생몰 연도를 모르는 경우가 많아요. 그래서 "무렵"이나 세기로만 적었어요. 공자·붓다의 연도는 전통적으로 전해지는 것이고, 붓다는 학설에 따라 100년 가까이 차이가 나요. 노자는 실존했는지부터 논쟁거리예요.
@@ -12,7 +12,7 @@
 
 | 때 | 그리스·로마 | 중국 | 인도 |
 |---|---|---|---|
-| 기원전 6세기 | [탈레스](../part1/ch01/thales.md), [피타고라스](../part1/ch01/pythagoras.md) | [공자](../part2/ch05/confucius-ren.md)(전통 연도 기원전 551~479) | [우파니샤드](../part2/ch07/upanishad-atman.md)의 여러 문헌 |
+| 기원전 6세기 | [탈레스](../part1/ch01/thales.md), [피타고라스](../part1/ch01/pythagoras.md) | [공자](../part2/ch05/confucius-ren.md)(전통 연도 기원전 551~479) | [우파니샤드](../part2/ch07/upanishad-atman.md)(기원전 700년쯤~300년쯤에 걸쳐 만들어짐) |
 | 기원전 6~5세기 | [헤라클레이토스](../part1/ch01/heraclitus.md), [파르메니데스](../part1/ch01/parmenides.md) | [노자](../part2/ch06/laozi-dao.md)(실존 논쟁) | [붓다](../part2/ch07/four-truths.md)(연대 학설이 갈림) |
 | 기원전 5세기 | [소피스트](../part1/ch02/sophists.md), [소크라테스](../part1/ch02/know-nothing.md)(기원전 399년 사형), [데모크리토스](../part1/ch01/democritus.md) | [묵자](../part2/ch06/mozi.md) | |
 | 기원전 4세기 | [플라톤](../part1/ch03/forms.md), [아리스토텔레스](../part1/ch04/aristotle-vs-plato.md)(기원전 384~322), [디오게네스](../part3/ch08/diogenes.md) | [맹자](../part2/ch05/mencius.md), [장자](../part2/ch06/zhuangzi-butterfly.md) | |

@@ -3,7 +3,7 @@
 parts:
 - id: 1
   title: I 철학의 시작
-  blurb: 세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 그리스 사람들이 처음 던진 질문을 따라가요.
+  blurb: 세상은 무엇으로 되어 있을까? 어떻게 살아야 할까? 고대 그리스에서 철학이 시작될 때 던진 질문을 따라가요.
   chapters:
   - num: 1
     title: 철학은 무엇을 묻는가
@@ -102,17 +102,17 @@ parts:
         done: true
   - num: 4
     title: 아리스토텔레스
-    blurb: 스승 플라톤과 달리, 진짜는 사물 안에 있다고 본 사람이에요.
+    blurb: 스승 플라톤과 달리, 사물의 본모습(형상)을 사물과 따로 떼어 두지 않은 사람이에요.
     sections:
     - num: '4.1'
       title: 세상을 정리하는 법
       pages:
       - slug: aristotle-vs-plato
-        title: 진짜는 사물 안에 있다
+        title: '아리스토텔레스: 형상은 사물과 따로 있지 않다'
         min: 5
         done: true
       - slug: four-causes
-        title: 무엇이든 네 가지 '왜'로 설명한다
+        title: "'왜?'에 답하는 네 가지 방법: 네 원인"
         min: 5
         done: true
       - slug: syllogism
@@ -215,11 +215,11 @@ parts:
         done: true
 - id: 3
   title: III 마음의 평화와 믿음
-  blurb: 흔들리지 않는 마음을 찾고, 믿음과 이성을 이으려 한 천 년의 이야기예요.
+  blurb: 흔들리지 않는 마음을 찾고, 믿음과 이성을 이으려 한 이야기예요. 기원전 4세기부터 14세기까지를 걸어요.
   chapters:
   - num: 8
     title: 마음의 평화를 찾아서
-    blurb: 나라가 흔들리던 시대, 사람들은 개인의 행복을 물었어요.
+    blurb: 기원전 4세기 무렵부터 여러 학파가 흔들리지 않는 마음과 잘 사는 법을 저마다 다르게 물었어요.
     sections:
     - num: '8.1'
       title: 헬레니즘 철학
@@ -276,7 +276,7 @@ parts:
         done: true
   - num: 10
     title: 이슬람 세계의 철학
-    blurb: 그리스 철학을 지키고 발전시켜 유럽에 다시 건넨 사람들이에요.
+    blurb: 계시와 이성, 기적과 원인 같은 물음을 그리스 철학과 씨름하며 새로 따진 사람들이에요. 그 성과는 뒤에 유럽에도 전해졌어요.
     sections:
     - num: '10.1'
       title: 바그다드에서 코르도바까지
@@ -318,7 +318,7 @@ parts:
   chapters:
   - num: 12
     title: 새로운 시대
-    blurb: 교회와 옛 책 대신 사람과 경험을 보기 시작했어요.
+    blurb: 고대의 책을 새로 읽으며 정치와 앎을 있는 그대로 다시 보려 했어요.
     sections:
     - num: '12.1'
       title: 르네상스와 그 뒤
@@ -371,7 +371,7 @@ parts:
         done: true
   - num: 14
     title: 경험에서 시작하기
-    blurb: 모든 앎은 보고 듣고 만지는 데서 온다고 봤어요.
+    blurb: 생각의 재료는 경험(감각, 그리고 마음이 자기 활동을 돌아보는 반성)에서 온다고 봤어요.
     sections:
     - num: '14.1'
       title: 경험론
@@ -454,7 +454,7 @@ parts:
         min: 5
         done: true
 - id: 5
-  title: V 19세기
+  title: V 칸트에서 니체까지
   blurb: 칸트가 이성의 한계를 그었고, 그 뒤 사람들은 역사·행복·실존을 물었어요.
   chapters:
   - num: 17
@@ -488,7 +488,7 @@ parts:
         min: 5
         done: true
   - num: 18
-    title: 가장 많은 사람의 행복
+    title: 모두의 행복과 고통 따지기
     blurb: 결과로 옳고 그름을 따지고, 사회의 구조를 물었어요.
     sections:
     - num: '18.1'
