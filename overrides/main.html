@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{#- 앱 설치(PWA) 설정 (2026-11-17 사용자 요청): 앱 정보 파일, 아이콘, 서비스 워커 주소 -#}
+{% block extrahead %}
+  <link rel="manifest" href="{{ 'manifest.webmanifest' | url }}">
+  <meta name="theme-color" content="#2b3a78">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="철학 정주행">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="apple-touch-icon" href="{{ 'assets/icons/apple-touch-icon.png' | url }}">
+  <script>
+    window.PJ_APP = {sw: "{{ 'sw.js' | url }}", install: "{{ 'install/' | url }}"};
+  </script>
+{% endblock %}

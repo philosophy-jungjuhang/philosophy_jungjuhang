@@ -29,6 +29,7 @@ hide:
 <div class="hero-actions after-hero" markdown>
 [첫 페이지 읽기](part1/ch01/what-is-philosophy.md){ .md-button .md-button--primary }
 [전체 차례 보기](#차례){ .md-button }
+[앱으로 설치](install.md){ .md-button data-install="1" }
 </div>
 
 <div class="band band-orange" markdown>

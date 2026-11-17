@@ -58,7 +58,7 @@ for part in book['parts']:
 
 # 2) mkdocs.yml의 nav
 y = (root / CONFIG).read_text(encoding='utf-8')
-y = y[:y.index('\nnav:')] + f"\nnav:\n  - {L['home']}: index.md\n"
+y = y[:y.index('\nnav:')] + f"\nnav:\n  - {L['home']}: index.md\n" + ("  - 앱으로 설치: install.md\n" if (root / DOCS / 'install.md').exists() else "")
 for part in book['parts']:
     pd = pdir(part)
     if 'flat' in part:

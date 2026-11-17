@@ -211,3 +211,18 @@ body{overflow-x:clip}
 
 /* 철학 페이지: 원전(1차)과 해설(2차)을 나누는 작은 꼬리표 */
 .md-typeset .src-tag{font-family:var(--mono);font-size:.6rem;color:var(--ink-faint);border:1px solid var(--line);border-radius:6px;padding:0 .35em;margin-right:.3em}
+
+/* 앱 설치(PWA, 2026-11-17): 머리 부분 버튼과 설치 안내 */
+.pj-install-btn{display:inline-flex;align-items:center;gap:.3rem;margin:0 .4rem;padding:.3rem .65rem;border-radius:999px;background:var(--marker);color:#1b2550;font-size:.66rem;font-weight:600;white-space:nowrap;transition:filter 150ms var(--ease)}
+.pj-install-btn:hover{filter:brightness(.95);color:#1b2550}
+.pj-install-btn svg{width:.9rem;height:.9rem}
+[data-md-color-scheme="slate"] .pj-install-btn{background:#ffd93b}
+.pj-installed .pj-install-btn,.pj-installed [data-install]{display:none!important}
+@media (max-width:44.9375em){.pj-install-btn span{display:none}.pj-install-btn{padding:.35rem;margin:0 .2rem}}
+.md-typeset .pj-guides{display:grid;gap:.8rem;margin:1rem 0}
+.md-typeset .pj-guide{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:.2rem 1rem .6rem}
+.md-typeset .pj-guide h3{margin:.8rem 0 .4rem;font-size:.95rem}
+.md-typeset .pj-guide.is-mine{border:2px solid var(--blue);box-shadow:0 6px 18px rgba(43,58,120,.10)}
+.md-typeset .pj-guide.is-mine h3::after{content:"지금 쓰는 브라우저";margin-left:.5rem;font-size:.6rem;font-weight:600;padding:.1rem .45rem;border-radius:999px;background:var(--marker);color:#1b2550;vertical-align:middle}
+.md-typeset .pj-guide ol{margin:.2rem 0 .4rem}
+.md-typeset .pj-save-status,.md-typeset .pj-status{font-family:var(--mono);font-size:.66rem;color:var(--ink-soft);min-height:1em}
